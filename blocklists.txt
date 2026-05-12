@@ -3947,7 +3947,6 @@
 4info.com
 4irc.com
 4jaehnfqizyx.controlconceptsusa.com
-4jg4j34.cfd
 4jh1le34m.com
 4jnzhl0d0.com
 4k.fanza18r.online
@@ -11702,7 +11701,6 @@ activision.ssl.sc.omtrdc.net
 activities.alibaba.com
 activity-api.wshareit.com
 activity-flow.vtex.com
-activity.alibaba.com
 activity.api.bbc.co.uk
 activity.api.bbc.com
 activity.baidu.com
@@ -11920,7 +11918,6 @@ ad-info.val.jp
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-ttp2.tiktokv.eu
 ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
-ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 ad-instantpage-ttp2.tiktokv.us
 ad-instantpage-va.tiktokv.com
 ad-instantpage.tiktokv.us
@@ -12058,7 +12055,6 @@ ad-tag.inner-active.mobi
 ad-tech-jp.com
 ad-tech.com
 ad-tech.nbcuni.com
-ad-tech.nbcuni.com.edgesuite.net
 ad-tech.ru
 ad-tech.scmp.com
 ad-techlondon.co.uk
@@ -12170,7 +12166,6 @@ ad.apl397.me
 ad.apl398.me
 ad.apl407.me
 ad.apl408.me
-ad.apl409.me
 ad.apl410.me
 ad.appier.net
 ad.apsalar.com
@@ -14578,7 +14573,6 @@ adreda.com
 adregain.ru
 adrelayer.com
 adremedy.com
-adrenalinebot.ru
 adrenalinefamily.ru
 adrenalinemanipulativeact.com
 adrenovate.com
@@ -14774,7 +14768,6 @@ ads-i3.xhscdn.com.a.bdydns.com
 ads-i4.xhscdn.com
 ads-i4.xhscdn.com.057f7a7d.cdnhwcxcy07.com
 ads-i8.xhscdn.com
-ads-ie.tiktokw.eu
 ads-image.production-public.tubi.io
 ads-images.hardwareand.co
 ads-img-al.xhscdn.com
@@ -15088,7 +15081,6 @@ ads.brattymilf.com
 ads.brattysis.com
 ads.brave.com
 ads.brazino777.bet.br
-ads.brazzers.com
 ads.brf.be
 ads.bridgebase.com
 ads.brndts.com
@@ -17340,7 +17332,6 @@ advantagesclotblend.com
 advantipro.de
 advanttechnology.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -22740,7 +22731,6 @@ analytics.fahrrad-rechner.de
 analytics.fairphone.com
 analytics.fakestoreapi.com
 analytics.falais.com
-analytics.fam.ir
 analytics.familar.fi
 analytics.fandmstatebank.com
 analytics.fanlocks.com
@@ -29002,7 +28992,6 @@ apr.lijit.com
 aprci.ruggable.eu
 apremgacvfcwv.online
 april-visitorinfo.com
-aprilads.space
 aprilbnbupdate-info.com
 aprilstudios.in
 aprilxnet4.xyz
@@ -29164,6 +29153,7 @@ ar.tns-counter.ru
 ar.transhero.com
 ar.trashreality.com
 ar.umeng.com
+ar.voicefive.com
 ar.zatube.com
 ar1.aza.io
 arabcontroversycrisis.com
@@ -29518,6 +29508,7 @@ as-kuailian.hl.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29841,7 +29832,6 @@ askwithads.com
 askyourweb.com
 aslau-cre.info
 asleepextraordinary.com
-asleepjack.com
 aslkv.yarn.com
 aslnk.link
 asloader.tz.de
@@ -43482,7 +43472,6 @@ civicscience.com
 civiitbbaeuvi.online
 civilactually.com
 civilchop.com
-civilizationglimpsecontraction.com
 civisanalytics.com
 civitebacile.cfd
 ciwswcooilzwj.space
@@ -46825,7 +46814,6 @@ combgun.com
 combia-tellector.com
 combine.asnapieu.com
 combine.urbanairship.com
-combinedawfully.com
 combinedcanes.com
 combingcohabitrattans.cfd
 combo-omni.haravan.com
@@ -47591,7 +47579,6 @@ consent2.gladbachlive.de
 consentag.eu
 consenttool.haendlerbund.de
 consequencerelic.com
-consequentlyvisithector.com
 conservativedailypost.com
 conservefelt.com
 considerablerider.com
@@ -48084,6 +48071,7 @@ cookie-guard-erdee.ey.r.appspot.com
 cookie-jam.sgn.com
 cookie-master2.com
 cookie-matching.mediarithmics.com
+cookie-store.ru
 cookie-sync-service-prod.steelhousemedia.com
 cookie.amerigas.com
 cookie.brealtime.com
@@ -48200,7 +48188,6 @@ coopbank.tt.omtrdc.net
 cooperate.firstimpression.io
 cooperatemarker.com
 cooperation.mitochondriak.com
-cooperationdungfrugal.com
 cooperative-convert.com
 cooperative-reveal.com
 cooperativebank.data.adobedc.net
@@ -48632,6 +48619,7 @@ counterapi.dev
 counterbot.com
 countercentral.com
 countercity.de
+countercity.net
 countere.com
 counterfeit-note.com
 counterfeitlearnedpacify.com
@@ -53381,7 +53369,6 @@ darkcatalog.com
 darkforums.st
 darki.sokolovelaw.com
 darkmarketpremium.com
-darkmarketsurl.com
 darkmfbipedjt.space
 darknagar.ru
 darknet-market.link
@@ -59702,7 +59689,6 @@ dienmayxanh24h.com
 dienmayxanh24h.net
 dienmayxanhtantam.com
 dienxu.mall.hr
-dierechnungen.com
 dierem.click
 diesci.simpletire.com
 diesel.d3.sc.omtrdc.net
@@ -61937,7 +61923,6 @@ drnniuaxhvpgz.website
 drnrr.supplylife.com
 drnsvp.starcasino.be
 drogueswworeides.info
-droidacid.com
 droidwiz.com
 droimon20.ru
 drollwharf.com
@@ -66633,7 +66618,6 @@ equilist.raj-ohlavek.cz
 equinesavieinolith.cfd
 equinox.com.ssl.sc.omtrdc.net
 equipamentos.karcher-center-dikmaq.com.br
-equipmentselfemployed.com
 equirekeither.xyz
 equiremukentsi.org
 equitxhquqcqw.online
@@ -67478,7 +67462,6 @@ eu-sls-ls.locknewslab.com
 eu-srv.apptornado.com
 eu-st-sl.vivoglobal.com
 eu-static.load.exelator.com
-eu-strauss-online.shop
 eu-stsdk.vivoglobal.com
 eu-survey.com
 eu-tagging.volvocars.com
@@ -75491,7 +75474,6 @@ geniusdexchange.com
 geniusfood.co.uk
 geniuslinkcdn.com
 geniusonclick.com
-geniusoutset.com
 genmish.com
 genmonet.com
 genoo.com
@@ -80263,7 +80245,6 @@ gtm.ecoleoscar.com
 gtm.ecolinq.com
 gtm.ecolinq.fr
 gtm.ecolinq.nl
-gtm.ecosulmetais.com.br
 gtm.ecxpay.com.br
 gtm.edenacademy.com.au
 gtm.edify.club
@@ -83046,7 +83027,6 @@ gtm.zoepousada.com.br
 gtm.zomorwood.com
 gtm.zoomsphere.com
 gtm.zsbrands.com
-gtm.zuquedrinkbar.com.br
 gtm.zuzazapata.com.br
 gtm.zwergensache.com
 gtm0.shophausofflowersla.com
@@ -98539,7 +98519,6 @@ lane-matomo.prd.fa.wetix-agency.fr
 lanebryant.com.ssl.d1.sc.omtrdc.net
 lanentablelanentablehood.com
 lanentablelanentablejessamyhenrietta.com
-lanepartridge.com
 langcash.com
 langielbeicecresc.cfd
 langmarket.com
@@ -102551,7 +102530,6 @@ load.gtm.liefleukeneigen.nl
 load.gtm.linumdesign.com
 load.gtm.littlegirlspearls.com
 load.gtm.lmbksurfhouse.com
-load.gtm.lojadodetalhamento.com.br
 load.gtm.lojalaganexa.com.br
 load.gtm.lortolanovalledoria.com
 load.gtm.loser-tee.at
@@ -107228,7 +107206,6 @@ looking4fuck.com
 lookit.cz
 lookmommynohands.com
 lookmy.info
-lookoutspam.com
 looksmart.com
 looksmartppc.com
 lookszone.ru
@@ -124981,7 +124958,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nycds.org
-nyceov.life.ru
 nychi2.outbrain.com
 nycjuaeiuzhxe.site
 nycp-hlb.dvgtm.akadns.net
@@ -129607,6 +129583,7 @@ papi.look.360.cn
 papi.tagger.opecloud.com
 papi.walkme.com
 papi.walkmegov.com
+papia.zaifaonlineshop.infy.uk
 papiosaiid.com
 papmeatidigbo.com
 papoto.com
@@ -134687,6 +134664,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141297,6 +141275,7 @@ reklama.wisdom.bg
 reklama.wp.pl
 reklamaction.com
 reklamagaci.com
+reklamaizer.ru
 reklamaster.com
 reklamatik.com
 reklamdor.com
@@ -146049,7 +146028,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -146070,6 +146048,7 @@ s.vipdube.com
 s.vitabay.de
 s.vlink4.com
 s.vlink6.com
+s.voicefive.com
 s.vucko.co
 s.vws4brkfst.com
 s.waterloochronicle.ca
@@ -149032,7 +149011,6 @@ securetags.esri.ca
 securetags.esri.ch
 securetags.esri.co
 securetags.esri.com
-securetags.esri.com.tr
 securetags.esri.de
 securetags.esri.fi
 securetags.esri.in
@@ -149041,7 +149019,6 @@ securetags.esri.ro
 securetags.esri.rw
 securetags.esri.se
 securetags.esrichina.hk
-securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
@@ -167108,6 +167085,7 @@ ss.greenvillagecesenatico.it
 ss.gresspadel.dk
 ss.grizzlytrucks.ca
 ss.groundplug.dk
+ss.grupomendoncabarros.com.br
 ss.grupovk.com
 ss.gualdatraining.com
 ss.guardality.com
@@ -169110,6 +169088,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslpagestat.mmi.bemobile.ua
 sslph.com
+sslproxy.gatewayvv2lilly-analytics.3.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -172865,6 +172844,7 @@ ssteeraa.net
 sstesting.lovedigital.media
 ssteu.unitedrentals.com
 sstfb.lightstone-jewellery.com
+sstfp.althos-luxembourg.com
 sstfs.dbu.dk
 sstg.husse.pl
 sstg.memoriffy.com
@@ -173251,6 +173231,7 @@ staging-access.themediagrid.com
 staging-ads.adtarget.me
 staging-ads.blogherads.com
 staging-api.omappapi.com
+staging-ar.voicefive.com
 staging-bam.nr-data.net
 staging-cdn.snigelweb.com
 staging-curate.themediagrid.com
@@ -180446,7 +180427,6 @@ suggest.dxpapi.com
 suggest.hotjar.com
 suggest4you.com
 suggestbingo.com
-suggestedeeriegoody.com
 suggesthometown.com
 suggestion.baidu.com
 suggestionbridge.com
@@ -180463,6 +180443,7 @@ suicidalruse.com
 suicideispreventable.org
 suidingzuqiuxie.com.cn
 suiformupdrink.cyou
+suijidaohxl.top
 suijy.com
 suina.usationguggles.qpon
 suipqsqihrccz.online
@@ -187997,7 +187978,6 @@ tocukgaytx.data.adobedc.net
 tod99shi.com
 todacell.com
 today.com.ssl.sc.omtrdc.net
-todayinvest.online
 todaymix.ru
 toddhclbvxmxd.site
 toddlecausebeeper.com
@@ -193292,9 +193272,7 @@ trez-coinbase.com
 trezor-bridge.com
 trezor-fundatek.com
 trezor-help-desk.com
-trezor-wallet.com.de
 trezor-zyskatnik.com
-trezor.co.nz
 trezor.pt
 trezor.tech
 trezorbridge.org
@@ -205512,7 +205490,6 @@ wio06210j7.com
 wio06230j7.com
 wioaavu.enkay.com
 wioabfwyigasfbksl.org
-wiosna-2026-265932.click
 wiosna-2026-nr73921.click
 wip-edge.ad1x.com
 wipe.de
@@ -206421,6 +206398,7 @@ wreport1.meituan.net
 wrestforsake.com
 wrestgrandfather.com
 wrestle22.top
+wrestlingexposed.com
 wretchedadvantage.com
 wretchedclearance.com
 wretchedfloor.com
@@ -208745,6 +208723,7 @@ www.mediabreakaway.com
 www.mediafiregames.net
 www.mediaforge.com
 www.mediafuse.com
+www.mediagauge.com
 www.mediaintelligence.de
 www.mediarithmics.com
 www.mediascale.de
@@ -211985,7 +211964,6 @@ xn--4dkua4c8143c.jp
 xn--6kr65fctg2t4e.com
 xn--80affa3aj0al.xn--80asehdb
 xn--80ak6aa92e.com
-xn--9krv3x413bbyb.com
 xn--ameli-action-ncssaire-o5bb.fr
 xn--cesz84cpgmtvy.net
 xn--edkc9m807k.jp
