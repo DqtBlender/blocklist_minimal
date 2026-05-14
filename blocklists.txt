@@ -861,7 +861,6 @@
 1233130091.com
 123456.asia
 123456789abc.com
-123456abcd.com
 12346-coinbase.com
 123801abb0.shop
 123801abb1.shop
@@ -4657,7 +4656,6 @@
 5hffr1p22j.com
 5hte21mz.com
 5hu7hee0pt.com
-5hz37vje774zkcwwqkok.cfd
 5icim50.de
 5ipaypal.cn
 5isohu.com
@@ -9937,7 +9935,6 @@ a8cv.nagatani-shop.com
 a8cv.naire-seisakusho.jp
 a8cv.naradenryoku.co.jp
 a8cv.naris-online.jp
-a8cv.natulahonpo.com
 a8cv.naturaltech.jp
 a8cv.naturebreath-store.com
 a8cv.nd-clinic.net
@@ -14643,7 +14640,6 @@ adreda.com
 adregain.ru
 adrelayer.com
 adremedy.com
-adrenalinebot.ru
 adrenalinefamily.ru
 adrenalinemanipulativeact.com
 adrenovate.com
@@ -15221,7 +15217,6 @@ ads.consents-management.prod.aws.statista.com
 ads.console.alibabacloud.com
 ads.console.aliyun.com
 ads.consultorsalud.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.contextweb.com
 ads.creative-serving.com
@@ -15726,7 +15721,6 @@ ads.netnews.com.mt
 ads.networksolutions.com
 ads.newbatti.com
 ads.newdb.mtp.pl
-ads.newgrounds.com
 ads.newmedia.cz
 ads.newsbook.com.mt
 ads.newsint.co.uk
@@ -19635,6 +19629,7 @@ aj2204.online
 aj2234.online
 aj2294.online
 aj2295.online
+aj2376.online
 aj2396.online
 aj2403.online
 aj2438.online
@@ -20340,6 +20335,7 @@ alleygoat.com
 allfacebookgames.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfan.ru
 allfreecounter.com
 allgovtjobz.pk
@@ -21471,7 +21467,6 @@ analytics-collector-production.c3.yle.fi
 analytics-collector.apps.yle.fi
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-core.netlify.app
 analytics-dashboard-flow-6040.taskade.app
 analytics-dashboard-pro-1495.taskade.app
@@ -25540,7 +25535,6 @@ analytics.yard.nl
 analytics.yashgarg.dev
 analytics.yaysecurityapp.xyz
 analytics.ycdn.de
-analytics.yeet.su
 analytics.yele.dev
 analytics.yesmomentum.de
 analytics.yext-static.com
@@ -26219,7 +26213,6 @@ any64.de
 anyadx.live
 anycast.adnxs.com
 anycast.bapi.adsafeprotected.com
-anycast.popads.net
 anyclip-media.com
 anyclip.com
 anydebrid.com
@@ -29620,6 +29613,7 @@ as-kuailian.hl.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -30850,7 +30844,6 @@ audionews.fm
 audionex.saudeeprazer.com.br
 audiopoisk.com
 audiosdroid-store-analytics.vercel.app
-audiotouch.info
 audit-tcfv2.cmp.quantcast.com
 audit.303br.net
 audit.median.hu
@@ -35539,7 +35532,6 @@ bitlord.com
 bitmedia.io
 bitmedianetwork.com
 bitmessage.ch
-bitminetechcompliance.com
 bitmix.cash
 bitmorio.com
 bitnation.co
@@ -41899,6 +41891,7 @@ cdn.sphinxtube.com
 cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.srxy.xyz
 cdn.starseed.fr
@@ -48207,6 +48200,7 @@ cookie-guard-erdee.ey.r.appspot.com
 cookie-jam.sgn.com
 cookie-master2.com
 cookie-matching.mediarithmics.com
+cookie-store.ru
 cookie-sync-service-prod.steelhousemedia.com
 cookie.amerigas.com
 cookie.brealtime.com
@@ -58465,7 +58459,6 @@ dedicatedmedia.com
 dedicatednetworks.com
 dedicateimaginesoil.com
 dedicationageunfortunately.com
-dedigitalblick.com
 dedouanement-swiss.com
 dedspac.ru
 deduce.com
@@ -59242,7 +59235,6 @@ devuniper.cnt1.net
 dew9ckzjyt2gn.cloudfront.net
 dewa.it.com
 dewdroplagoon.com
-deweltupdate.com
 dewigacor555.shop
 dewlapscsk.qpon
 dewrain.life
@@ -68549,7 +68541,6 @@ ewouldlookina.org
 ewounddebi.com
 ewplmwaplsicz.website
 ewqdsa.xyz
-ewqkrfjkqz.com
 ewrerwe.s3m4m.lol
 ewrrpuquc1.com
 ewruuqe5p8ca.com
@@ -71467,7 +71458,6 @@ finance96-cumque85.pro
 finance96-eum56.pro
 finance98-consequatur83.pro
 finance98-esse49.pro
-finance99-consequatur47.pro
 finance99-rem13.pro
 financecryptoworld.com
 financefear.com
@@ -78795,6 +78785,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grhd93jd.com
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 gribeorlneka.net
@@ -86416,7 +86407,6 @@ horny-honey.online
 hornymatches.com
 hornyspots.com
 hornywomancrsu.com
-horonstogly.com
 horoscopesoftheday.com
 horribletrainer.com
 horriblyfur.com
@@ -86587,7 +86577,6 @@ hotwire-widget.dailywire.com
 hotwords.com
 hotwords.com.br
 hotwords.es
-hotxpromo.com
 hotxxxcontent.com
 houbmjcujavil.store
 houcedqscszcu.space
@@ -121228,7 +121217,6 @@ mychildroomru-4.cfd
 mycleanpc.com
 mycleverpush.com
 myclientip.com
-mycn86.cn
 mycommerce.com
 mycomputer.com
 myconsolestore.ru
@@ -123317,7 +123305,6 @@ ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
 ngacm.com
-ngads.com
 ngadverts.com
 ngaffn.itokin.net
 ngageics.com
@@ -135125,7 +135112,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -146628,7 +146614,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -154166,6 +154151,7 @@ server.relacionamentopositivo.com.br
 server.relanz.com.br
 server.remoteutilities.com
 server.renatabacha.com.br
+server.renatafreire.online
 server.rennanmezabarba.com.br
 server.rensensefragrancebd.com
 server.repairbd.com
@@ -154393,7 +154379,6 @@ server.stopbus.com.br
 server.storii.com
 server.strata.us
 server.stratacademy.com.br
-server.streamtechit.com
 server.streetme.com.br
 server.strimee.com
 server.studiobiva.com.br
@@ -162981,7 +162966,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
 smetrics.saxobank.com
@@ -166279,7 +166263,6 @@ spittleclouds.com
 spixel.adsafeprotected.com
 spklmis.com
 spklw.com
-spkoevngk.com
 spkvmszihgzei.space
 spl.greenhouse.io
 spl.zeotap.com
@@ -169843,6 +169826,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslpagestat.mmi.bemobile.ua
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -170858,6 +170842,7 @@ sst.drinkhighrider.com
 sst.driubeauty.lt
 sst.drmueller.de
 sst.drogueriaelbarco.com
+sst.dronebd.xyz
 sst.drufire.com
 sst.drunkshakespeare.com
 sst.dtlaprint.com
@@ -196441,7 +196426,6 @@ u1102.com
 u15.info
 u16d4beu5.com
 u1aczgx9so.com
-u1pmt.com
 u1sdata.webullfintech.com
 u1zga.letsporn.com
 u2.bumlam.com
@@ -207990,7 +207974,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.net
 www.adaction.mobi
-www.adadvisor.net
 www.adalyser.com
 www.adamatic.co
 www.adamfreediver.com
