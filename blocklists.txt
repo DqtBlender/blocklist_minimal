@@ -1576,7 +1576,6 @@
 0x7iufg8hy.com
 0x80000.com
 0xadhinuwriteups.com
-0xcoin.com
 0xd38.xyz
 0xilluminati.com
 0xkji3.xyz
@@ -9960,7 +9959,6 @@ ab.apple.com.akadns.net
 ab.batmobi.net
 ab.blogs.es
 ab.cnbanbao.com
-ab.cumhot.org
 ab.dns-finder.com
 ab.fapnado.xxx
 ab.fastighetsvarlden.se
@@ -14677,7 +14675,6 @@ ads.patch.com
 ads.paymonex.net
 ads.pdbarea.com
 ads.people-group.net
-ads.people.com.cn
 ads.peoplespharmacy.com
 ads.perchance.org
 ads.periodistadigital.com
@@ -16423,6 +16420,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -19345,7 +19343,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -20407,6 +20405,7 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22123,7 +22122,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -26871,6 +26869,7 @@ as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-pet.ams3.cdn.digitaloceanspaces.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -39295,6 +39294,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -47236,6 +47236,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -53137,7 +53138,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -55639,7 +55639,6 @@ deeeparts.com
 deefauph.com
 deehalig.net
 deema.agency
-deemaagency.ir
 deemainunh.com
 deemanetwork.com
 deemattendingbakery.com
@@ -64424,6 +64423,7 @@ eonsmedia.com
 eontent.streamplay.to
 eonwuljgmyjep.site
 eookanmfhqjkh.online
+eople.com.cn
 eopuzol4.online
 eoqsokfzdlzpp.website
 eoredi.com
@@ -65382,7 +65382,6 @@ eu-static.load.exelator.com
 eu-stsdk.vivoglobal.com
 eu-survey.com
 eu-timesync.vivoglobal.com
-eu-tlx.3lift.com
 eu-u.openx.net
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
@@ -66136,7 +66135,6 @@ every-broad.com
 every-dark.com
 every-enjoy.com
 every-salmon.com
-every-shopping.pro
 every.com
 everybodycollecteagle.com
 everybodycreeduphill.com
@@ -67734,7 +67732,6 @@ fastblow.com
 fastbuy.biz
 fastcdn.info
 fastclick.com
-fastclick.ir
 fastclick.net
 fastcounter.com
 fastcounter.de
@@ -69226,6 +69223,7 @@ findapi.micloud.xiaomi.net
 findbestop.com
 findbetterresults.com
 findclicksaveopen.click
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -72881,6 +72879,7 @@ galantbell.cfd
 galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxiemedia.fr
+galaxien.com
 galaxy-love.com
 galaxy.bz.mgtv.com
 galaxy.reachifyinnovations.in
@@ -84613,6 +84612,7 @@ hot.browser.intl.miui.com
 hot.browser.miui.com
 hot.justpornflix.com
 hot.mansjourney.online
+hot.org
 hot.useractive.com
 hot4k.org
 hot59.de
@@ -94066,7 +94066,6 @@ jtjed.emango.gr
 jtjyyd.com
 jtkjixnmj.org
 jtknl.ashanderie.com
-jtkuqrdjpy.com
 jtnmqseejorlq.love
 jtoaxlbas.com
 jtoph.gibsonlook.com
@@ -100805,6 +100804,7 @@ load.capi.thethumbleusa.com
 load.capi.xivada.nl
 load.capi.xn--hrgerteabo-u5a5s.ch
 load.capifb.eyefixerbd.com
+load.capifb.tasheelbd.com
 load.capigtm.coachingwithmarni.com
 load.capigtm.genna.co
 load.cas.akneambulanz.at
@@ -110733,6 +110733,7 @@ materialparcel.com
 mateti.net
 mateysnates.qpon
 mathads.com
+mathcountryside.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
 matheranalytics.com
@@ -112086,6 +112087,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -123908,6 +123910,7 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -131127,7 +131130,6 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
-panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -144328,6 +144330,7 @@ ranking.younetmedia.com
 rankings24.de
 rankingscout.com
 rankinteractive.com
+rankirani.ir
 rankjerryrounion.com
 rankleflatbed.help
 ranklet.come.cc
@@ -151757,7 +151760,6 @@ samsungscript.beusable.net
 samsungseao.demdex.net
 samsungseao.tt.omtrdc.net
 samsungsebnbg.api.useinsider.com
-samsungsebnnl.api.useinsider.com
 samsungsec.demdex.net
 samsungseda.api.useinsider.com
 samsungsem.api.useinsider.com
@@ -165876,6 +165878,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -173152,6 +173155,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -176348,6 +176352,7 @@ sst.valetta.fr
 sst.valleysandhills.de
 sst.valoris.io
 sst.valtur.com
+sst.vandijkstore.nl
 sst.vaneersa.com
 sst.vanharte.nl
 sst.vanvliet.com
@@ -176881,7 +176886,6 @@ sstgmt.escolacomradio.com.br
 sstgtm.amplerbikes.com
 sstgtm.araco.com.bd
 sstgtm.buyaz.com.bd
-sstgtm.canvasgallerybd.com
 sstgtm.danielbuchner.com.br
 sstgtm.enlivebd.com
 sstgtm.eurosportscamps.com
@@ -176899,7 +176903,6 @@ sstgtm.zeejewel.com
 sstgtma.royalsunnah.com
 sstgtmm.gentsjeans.com
 sstgtms.veryspecialgames.ca
-ssth.foolfoot.com
 ssth.garifixo.com
 ssth.hercloth.com
 ssticket.berlin-dance-music-event.com
@@ -192218,7 +192221,6 @@ tr.dulsco.com
 tr.dwjq.com.cn
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -199431,7 +199433,6 @@ uiwock.epantofi.ro
 uiwyirmq.kids-world.com
 uiwyirmq.kids-world.dk
 uixml.bidcampaign.com
-uiypods.my
 uiyxoowmkcppo.online
 uizgs.amberinteriordesign.com
 uizhndydahcum.online
@@ -201272,6 +201273,7 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.alumnusairglow.rest
 users.cuci.nl
 users.luckycrush.live
@@ -210204,7 +210206,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
