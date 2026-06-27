@@ -16063,6 +16063,7 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
+adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -19671,6 +19672,8 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -20754,7 +20757,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -22750,6 +22752,7 @@ analytics.timbertrove.com
 analytics.timemobi.co
 analytics.timhotel.com
 analytics.tio.ch
+analytics.tirjah.com
 analytics.tmonews.com
 analytics.tn.kz
 analytics.tnt-tv.com
@@ -26277,7 +26280,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -48420,7 +48422,6 @@ cse3.chausport.com
 csebt.bloomist.com
 csectserector.shop
 csectskefti.com
-csengb.manfredijewels.com
 csep.app
 csephkkcdkljz.club
 csf.uzone.id
@@ -49672,6 +49673,7 @@ d.everprint.co
 d.evilgreed.com
 d.evomarketing.it
 d.ew-ag.ch
+d.exito.fun
 d.exmed.net
 d.fabu-btq.com.ua
 d.feellovecoffee.com
@@ -66168,7 +66170,6 @@ error.demdex.net
 error.fc2.com.cdn.cloudflare.net
 error.nextersglobal.com
 error.practicefusion.com
-error.reg.pf-d.ca
 error.taobao.com.danuoyi.tbcache.com
 error.uhost.co.kr
 error.videonow.ru
@@ -80985,7 +80986,6 @@ gtm.luvio.pt
 gtm.luxadent.se
 gtm.luxarmonie.com
 gtm.luxesthetic.online
-gtm.luzartesquadrias.com.br
 gtm.lxpl.store
 gtm.lymarkkamaroff.com.br
 gtm.lyonperfumaria.com.br
@@ -82441,6 +82441,7 @@ gtm.www.lepetsante.com.br
 gtm.www.outletsolidarioss.com.br
 gtm.www.svenskaspel.se
 gtm.x1company.com.br
+gtm.x1med.com.br
 gtm.xandeconsorcio.com
 gtm.xequematenem.com.br
 gtm.xlandbd.com
@@ -105926,7 +105927,6 @@ load.ss.vielsker.dk
 load.ss.vincimech.com
 load.ss.vingsted.dk
 load.ss.viretta.se
-load.ss.vittarelax.com
 load.ss.vloerkledenwinkel.nl
 load.ss.waclightinglights.com
 load.ss.wallmountworld.com
@@ -138682,6 +138682,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -143859,6 +143860,7 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
+qxplus.ru
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
 qxqsrwtzxbpae.store
@@ -152898,6 +152900,7 @@ rzoevr.qvc.de
 rzojvqmbqhigv.website
 rzpjyz.pasona.co.jp
 rzpzdlmfkizyv.store
+rzqdqw.com
 rzrnpx.icu
 rzskji.holyart.it
 rzsqfxjdrtdsc.online
@@ -153097,7 +153100,6 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
-s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -153634,7 +153636,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -168868,6 +168869,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -176181,6 +176183,8 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gatewayvv2lilly-analytics.3.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -190696,6 +190700,7 @@ taskbarsystem.com
 taskdelight.com
 taskpea.com
 taskpesky.com
+tasksimplify.com
 tasktrivialaggregated.com
 taslg.modernofficefurniture.com
 tassardarthelchurns.cyou
@@ -195460,7 +195465,6 @@ tr.dulsco.com
 tr.dwjq.com.cn
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
