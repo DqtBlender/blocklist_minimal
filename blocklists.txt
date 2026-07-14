@@ -19931,7 +19931,7 @@ alleviateportedliterally.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
@@ -26485,6 +26485,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26616,6 +26617,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -27643,7 +27645,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40280,7 +40281,6 @@ cdn.mixx-ad.net
 cdn.ml314.com
 cdn.mmctsvc.com
 cdn.mmstat.com
-cdn.mobilefuse.com
 cdn.mobivite.net
 cdn.mobverify.com
 cdn.moengage.com
@@ -44490,7 +44490,6 @@ cobolgammed.com
 cobradaunder.cfd
 cobrand.ria.com
 cobrastore.com
-cobrax.ru
 cobrowse-lax1.inq.com
 cobrowse-prod-1836182388.us-east-1.elb.amazonaws.com
 cobrowse-verizon.inq.com
@@ -48799,7 +48798,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -54547,6 +54545,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -57997,7 +57996,6 @@ devqeury.org
 devs-data.hiaiabc.com
 devs.data.mob.com
 devtizer.ru
-devtracking.risk.lexisnexis.com
 devuba.xyz
 dew9ckzjyt2gn.cloudfront.net
 dewaasia.net
@@ -65981,7 +65979,6 @@ eniont.xyz
 enisaflower.com
 enisaflowersaku.com
 enityvopmweej.site
-eniyibonusal.com
 enj.mybluehost.me
 enjoy4dating.com
 enjoy4dating.net
@@ -69404,6 +69401,7 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -69411,7 +69409,9 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -73488,6 +73488,7 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -75066,7 +75067,6 @@ games-blacksoft.com
 games-direct.skynetworkcdn.com
 games-sdk.playhop.com
 games.bettersearchtools.com
-games.cityads.com
 games.playhop.com
 games.pog.com
 games.superappbox.com
@@ -77313,6 +77313,7 @@ globalreward77.com
 globalrtb.com
 globalservices.conde.digital
 globalsiteanalytics.com
+globalsolutions.risk.lexisnexis.com
 globalspec.demdex.net
 globalstars.ru
 globalstats.ekmsecure.com
@@ -80062,6 +80063,7 @@ gtm.audocph.jp
 gtm.augustocamiseiro.com
 gtm.auniversidade.com
 gtm.aupoint.com.br
+gtm.auraxbooster.com
 gtm.austral.ind.br
 gtm.australiandaytours.com.au
 gtm.australiangoods.com.bd
@@ -84264,7 +84266,6 @@ haofanglm.com
 haohuo.snssdk.com
 haokan.mobi
 haokoubei.top
-haole1xx.top
 haoma.baidu.com
 haomahao.com
 haosanshui.com
@@ -87747,6 +87748,7 @@ huosp.com
 huowamtxlunei.online
 huoying666.com
 hup.huppatzdigital.com.au
+hupevcuchmeuu.com
 huprokupon.com
 hupysrriepvxy.online
 huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
@@ -100726,6 +100728,7 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -111170,7 +111173,6 @@ madnesscoupon.com
 madnessescapegame.com
 madnessindians.com
 madnessjadegraceful.com
-madnet.ru
 madnet.yadro.ru
 madnna.jp
 madnna.net
@@ -134072,7 +134074,6 @@ p2kdjk34dd.com
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
-p2p.huya.com
 p2p.qq.com
 p2pchunk-table.douyucdn.cn
 p2pdh.com
@@ -134611,6 +134612,7 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
+panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -139619,7 +139621,6 @@ post.update.3lift.com
 post.update.a-mo.net
 post.update.ap.lijit.com
 post.update.fbsbx.com
-post.update.indexww.com
 post.update.moatads.com
 post.update.spotxchange.com
 post.update.wo.gumgum.com
@@ -144839,7 +144840,6 @@ qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
 qxnuan.noo-paris.com
-qxplus.ru
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
 qxqsrwtzxbpae.store
@@ -153707,7 +153707,6 @@ rzoevr.qvc.de
 rzojvqmbqhigv.website
 rzpjyz.pasona.co.jp
 rzpzdlmfkizyv.store
-rzqdqw.com
 rzrnpx.icu
 rzskji.holyart.it
 rzsqfxjdrtdsc.online
@@ -153911,6 +153910,7 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
+s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -161182,7 +161182,6 @@ server.sabnet.com.br
 server.sabsantrend.com
 server.sacariafbatista.com.br
 server.sadervubon.com
-server.safiaagro.com
 server.safukidszone.com
 server.sagiswim.com
 server.sahazlife.com
@@ -169704,7 +169703,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -171915,7 +171913,6 @@ solutions.oshaeducationcenter.com
 solutions.peco-energy.com
 solutions.redwingshoes.com
 solutions.refinitiv.cn
-solutions.risk.lexisnexis.co.uk
 solutions.saashr.com
 solutions.sabic.com
 solutions.sertifi.com
@@ -175384,7 +175381,6 @@ ss.loveanddivine.com
 ss.lovelymeds.com
 ss.ltaeducation.com
 ss.luckyjackgear.com
-ss.luliforbabies.com.br
 ss.lumaglasses.com
 ss.lumenface.com
 ss.lumeramadrid.es
@@ -176988,7 +176984,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -179650,6 +179645,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -182643,7 +182639,6 @@ stape.massotatianaaguiar.com.br
 stape.mastechtecnologia.com.br
 stape.masteramandaferreira.com.br
 stape.masterlideroficial.com
-stape.matheuscolombo.com
 stape.matheuspavan.com.br
 stape.matri.com.br
 stape.maxflooringco.com
@@ -186631,7 +186626,6 @@ stravito.com
 strawberry.basf.ca
 strawberry.basf.com
 strawberry.basf.us
-strawberryy14.top
 strawburn.com
 strayerchordal.com
 strbh.com
@@ -196248,7 +196242,6 @@ tr.dulsco.com
 tr.dwjq.com.cn
 tr.dxmcdn.com
 tr.e-mail.axa.fr
-tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -201350,7 +201343,6 @@ truehits2.gits.net.th
 truehits3.gits.net.th
 truejasmine.com
 trueleadid.com
-truell55.top
 truellovedating.com
 truelovedate.com
 truelovedate.net
@@ -205385,7 +205377,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -214606,6 +214597,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
