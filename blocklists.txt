@@ -6080,6 +6080,7 @@
 558158.xyz
 5590.tv
 5598w5.com
+5599912.com
 55b6be9d8f.com
 55bdsm.com
 55d827dd97bca94cf3bc24d3971f44622c36f301.com
@@ -14339,7 +14340,6 @@ ads-ru.tiktok.com
 ads-script.b-cdn.net
 ads-sdk-configuration-gcp.unityads.unity3d.com
 ads-sdk-configuration.unityads.unity3d.com
-ads-sdk-gateway.prd.mz.internal.unity3d.com
 ads-sdk.avidly.com
 ads-sdk.mattel163.com
 ads-sdk.upltv.com
@@ -14588,6 +14588,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.bstage.in
@@ -16359,6 +16360,7 @@ adsixmedia.fr
 adsjqaobchetb.space
 adsjumbo.com
 adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
+adskape.ru
 adskeeper.co.uk
 adskeeper.com
 adsklick.de
@@ -21361,7 +21363,6 @@ analytics.adobe.com
 analytics.adobe.io
 analytics.adoffice.11st.co.kr
 analytics.adpost.org
-analytics.ads-exchange.com
 analytics.adskeeper.co.uk
 analytics.adultswim.co.uk
 analytics.advolcano.io
@@ -22927,7 +22928,6 @@ analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.sharecare.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -26566,7 +26566,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -48580,7 +48579,6 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
-crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -54616,7 +54614,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -55173,6 +55170,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -77367,6 +77365,7 @@ globalservices.conde.digital
 globalsiteanalytics.com
 globalsolutions.risk.lexisnexis.com
 globalspec.demdex.net
+globalstars.ru
 globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
@@ -88458,7 +88457,6 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -92829,6 +92827,7 @@ instant.one
 instant.page
 instant4ck.com
 instantbannercreator.com
+instantcash.ru
 instantconservativedetect.com
 instantdeceived.com
 instantdollarz.com
@@ -109637,6 +109636,7 @@ lovingdrop.pro
 lovingforever.pro
 lovinghosethus.com
 lovingspeakclasped.com
+lovn.ru
 lovnlite.com
 lovrsdate.com
 low-house.com
@@ -115124,7 +115124,6 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
-mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -123663,6 +123662,7 @@ nativevegetablesentered.com
 nativex.com
 nativo.com
 natpal.com
+natpeiezp.com
 natprb.ru
 natqurshes.shop
 natqzyaatmnga.store
@@ -127240,6 +127240,7 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -130090,6 +130091,7 @@ obguj.wishgardenherbs.com
 obgynif.com
 obhtt.innosupps.com
 obhxvb.tmktools.ru
+obigre.ru
 obin.distinctrobin.com
 obiono.com
 obislame.ru
@@ -135548,6 +135550,7 @@ partnermax.de
 partnerportal.marketo.com
 partnerprogramm.e-wie-einfach.de
 partnerprogramma.bol.com
+partnerpros.org
 partners-show.com
 partners-tds.com
 partners.a24.biz
@@ -139747,6 +139750,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -142141,6 +142145,7 @@ pub.neartonet.com
 pub.network
 pub.new.33across.com
 pub.realmedia.fr
+pub.searchnova.com
 pub.searchnova.net
 pub.servidoresge.com
 pub.sheknows.com
@@ -146000,7 +146005,6 @@ r2---sn-nv47lnly.c.2mdn.net
 r2---sn-nv47lnsk.c.2mdn.net
 r2---sn-nv47lnsr.c.2mdn.net
 r2---sn-nv47lnsy.c.2mdn.net
-r2---sn-nv47zne7.c.2mdn.net
 r2---sn-nv47znel.c.2mdn.net
 r2---sn-nx57ynsk.c.2mdn.net
 r2---sn-nx57ynsl.c.2mdn.net
@@ -146543,6 +146547,7 @@ r3---sn-p5qlsnd6.c.2mdn.net
 r3---sn-p5qlsndk.c.2mdn.net
 r3---sn-p5qlsndr.c.2mdn.net
 r3---sn-p5qlsndz.c.2mdn.net
+r3---sn-p5qlsnrl.c.2mdn.net
 r3---sn-p5qlsnrr.c.2mdn.net
 r3---sn-p5qlsny6.c.2mdn.net
 r3---sn-p5qs7n6d.c.2mdn.net
@@ -147483,6 +147488,7 @@ r5---sn-ntqe6nez.c.2mdn.net
 r5---sn-nv47lnly.c.2mdn.net
 r5---sn-nv47lnsk.c.2mdn.net
 r5---sn-nv47lnsr.c.2mdn.net
+r5---sn-nv47zne7.c.2mdn.net
 r5---sn-nv47znee.c.2mdn.net
 r5---sn-nv47znel.c.2mdn.net
 r5---sn-nx57ynsk.c.2mdn.net
@@ -149757,6 +149763,7 @@ removedidentification.com
 removedrehabilitation.com
 removemalwarevirus.com
 removeverizon.net
+remox.com
 remp-beam.golem.de
 remp-campaign.golem.de
 remp.dailymaverick.co.za
@@ -151355,6 +151362,7 @@ rmazxvjbpymsz.website
 rmb-trf.net
 rmbalnswelwcp.online
 rmbehm.junjewelry.com
+rmbn.ru
 rmcje.remedymeds.com
 rmclskudgnbgj.space
 rmd.device-api.indigitall.com
@@ -154057,7 +154065,6 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
-s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -154476,6 +154483,7 @@ s.schuback-parfuemerien.de
 s.schwabensolar.com
 s.scourtinerie.com
 s.scuolayogashanti.it
+s.sdx.ru
 s.seelenverwandter.de
 s.service.tiresplus.com
 s.sfxfunded.com
@@ -165791,6 +165799,7 @@ silkceasedkidney.com
 silklanguish.com
 silkmanthanksdobson.qpon
 silkroad.csdn.net
+silkroadweb.com
 silkworm.boxmood.be
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
@@ -169851,7 +169860,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -170767,6 +170775,7 @@ smilingvery.com
 smilitygorb.club
 smind.hr
 sminerva.healthcentral.com
+smiru.ru
 smism.jp
 smitchbakongo.qpon
 smiteanimatedbeaker.com
@@ -177133,6 +177142,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -220894,7 +220904,6 @@ yumenetworks.com
 yumhusk.com
 yummy-month.com
 yummy-repeat.com
-yummy-status.pro
 yummy.consumable.com
 yummy2.consumable.com
 yummyadvertiseexploded.com
