@@ -12247,6 +12247,7 @@ ad.v3mh.com
 ad.v6.kuaishou.cn
 ad.vacanceo.com
 ad.val.jp
+ad.velomania.ru
 ad.vera.bet.br
 ad.verda2.akadns.net
 ad.video-mech.ru
@@ -14671,6 +14672,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15559,6 +15561,7 @@ ads.waploaded.com
 ads.watson.ch
 ads.weather.ca
 ads.web.de
+ads.web.tr
 ads.web1tv.de
 ads.webcafe.bg
 ads.webhosting.info
@@ -16077,7 +16080,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20057,7 +20059,7 @@ alleviateportedliterally.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -26587,7 +26589,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26719,6 +26720,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -37229,7 +37231,6 @@ bxcebt.enjoyyourcamera.com
 bxchx.pages.dev
 bxczchdxynw.com
 bxdeaeieixgkf.store
-bxdrrkfeichhms.com
 bxekozqvwcqeg.space
 bxerfbkaoasof.space
 bxfvaugytecwq.online
@@ -54792,7 +54793,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -55349,6 +55349,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -63880,6 +63881,7 @@ eczmkgrzdluhe.store
 ed-blissful.com
 ed-sys.net
 ed.2.west.com
+ed.com
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -79681,7 +79683,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 gribeorlneka.net
@@ -88249,6 +88250,7 @@ hushclosing.com
 hushpub.com
 hushregardingheadless.com
 huskinessimminentstylus.com
+huskyblue.pro
 huskymiddle.com
 huskypartydance.com
 husoxn.investors.com
@@ -120883,7 +120885,6 @@ mobile-telemetry-1356052157.eu-west-1.elb.amazonaws.com
 mobile-telemetry.multiball.forzafootball.net
 mobile-ws.apprissmobile.com
 mobile.adfarm1.adition.com
-mobile.adsafeprotected.com
 mobile.anycast.adnxs.com
 mobile.avazutracking.net
 mobile.brealtime.com
@@ -123975,6 +123976,7 @@ nabjewthoknxr.space
 nablabee.com
 nableroberto.com
 nabuasbobiype.site
+nachhilfeteam.net
 nachodusking.com
 nachophobiaunengaged.com
 nachrichteninsel.click
@@ -126184,7 +126186,6 @@ nkcdtumculrow.space
 nkdfuveaxnmnt.space
 nkdna.hightailhikes.com
 nkdyzf.com
-nkfbhatevluef.com
 nkgmodulsssiy.online
 nkgptejd.studio
 nkis.nikkei.com
@@ -140448,6 +140449,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -140531,6 +140533,7 @@ postponeclement.com
 postrank.com
 postrelease.com
 postreport.meituan.com
+postsupport.net
 postthieve.com
 postuin.bond
 postureracial.com
@@ -141973,7 +141976,6 @@ profitrumour.com
 profitsence.com
 profitsfly.com
 profitshare.emag.ro
-profitshare.ro
 profitwell.com
 proforumhq.shop
 profoundexchange.com
@@ -158621,6 +158623,7 @@ securetags.esri.ca
 securetags.esri.ch
 securetags.esri.co
 securetags.esri.com
+securetags.esri.com.tr
 securetags.esri.de
 securetags.esri.fi
 securetags.esri.in
@@ -158629,6 +158632,7 @@ securetags.esri.ro
 securetags.esri.rw
 securetags.esri.se
 securetags.esrichina.hk
+securetags.esriturkey.com.tr
 securetags.esriuk.com
 securetags.geotecnologias.com
 securetags.gisbaltic.eu
@@ -188293,6 +188297,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -208269,7 +208274,6 @@ vebmmcatswbwv.com
 vebv8me7q.com
 vechainofficial.org
 vectaury.io
-vectoio.net
 vector.co
 vectoragents.ai
 vectormarketing.com
@@ -215752,6 +215756,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -216878,7 +216883,6 @@ www.premiumvertising.com
 www.primecrestnq.name
 www.proadscdn.com
 www.procarsharing.store
-www.profitshare.bg
 www.promomasters.at
 www.promoskills.com
 www.propellerclick.com
@@ -217345,6 +217349,7 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
+www.www.my-exodus.com.co
 www.www.superset-qa.sese.cn
 www.wwwhwgo.com
 www.wwwmyboostnow.com
@@ -220613,7 +220618,6 @@ yardnamesake.com
 yardnode.com
 yardr.net
 yardstick.bitchute.com
-yardtoexperience.net
 yarezo.vendee-tourisme.com
 yariman.online
 yarningbursal.com
@@ -221702,6 +221706,7 @@ youtubepre.com
 youtuber-cash.buzz
 youtubesave.org
 youtucams.com
+youtuhe.biz
 youtunbe.com
 youutube.com
 youvetube.com
