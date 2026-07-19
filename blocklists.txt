@@ -29,6 +29,7 @@
 0-tox.com
 0-web.com
 0-zone.com
+0.ace-it.co.com
 0.avmarket.rs
 0.beer
 0.club
@@ -12043,6 +12044,7 @@ ad.land.to
 ad.latimes.com
 ad.ldplayer.net
 ad.leadboltads.net
+ad.leadboltapps.net
 ad.leap.app
 ad.letmeads.com
 ad.lgsmartad.com
@@ -16102,7 +16104,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20074,7 +20075,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -22984,6 +22985,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -26631,6 +26633,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27792,7 +27795,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -30261,6 +30263,7 @@ b-static.bet-links.com
 b-u-x.net
 b-us.adx.opera.com
 b-withyou.com
+b-z-uzou-fukunoturu.discover-news.tokyo
 b.72ckgctit6mngwqbbo2ln.cyou
 b.adexchangemachine.com
 b.admedia.com
@@ -49052,7 +49055,6 @@ cse.mybluehost.me
 cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -54817,6 +54819,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -68287,7 +68290,6 @@ events.prd.api.discomax.com
 events.privy.com
 events.production.us1.pgw-pci.klarna.net
 events.ramavi.com.br
-events.realgravity.com
 events.reclamefolder.nl
 events.reddit.com
 events.redditmedia.com
@@ -69565,7 +69567,6 @@ fac.fanucamerica.com
 facai383.oss-cn-guangzhou.aliyuncs.com
 facaiimage.com
 face-book.co
-face-it.co.com
 face.homeneedsbd.com
 facearticle.net
 faceb00k.com.vn
@@ -69756,6 +69757,7 @@ fakxqq.cn
 fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.pixanalytics.com
@@ -69763,7 +69765,9 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -73870,6 +73874,7 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -74531,7 +74536,6 @@ fulmar.net.anwalt.de
 fulohsdudxyhc.site
 fulvenebocca.com
 fuma8ligq.com
-fumbling-specific.pro
 fumbling-wish.com
 fumblingapple.pro
 fumblingform.com
@@ -83070,7 +83074,6 @@ gtm.terrasdeparagon.com.br
 gtm.tessile.ro
 gtm.testegabrielrios.com.br
 gtm.testmottagningen.se
-gtm.tetobroker.com.br
 gtm.thalassea.com.au
 gtm.thausarquitetura.com
 gtm.the-page.co.uk
@@ -88870,6 +88873,7 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -101305,6 +101309,7 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
+lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -111968,6 +111973,7 @@ mahimanipalhospitals.com
 mahimeta.com
 mahin.brillondeco.com
 mahin.mahinagro.com
+mahirhirdavat.com
 mahjouwwbezzg.online
 mahoesmot.cfd
 mahoganyproductthat.com
@@ -115006,7 +115012,6 @@ mcp.tvinteractive.tv
 mcppsh.com
 mcprofits.com
 mcpuwpsh.com
-mcpuwpush.com
 mcpvrop.run
 mcpwarehouse.com
 mcrai.helvetia.cz
@@ -120763,7 +120768,6 @@ mo.baidu.com
 mo.fbcapi.motocorpbd.com
 mo.freeindoapp.com
 mo.gatsbykynurin.com
-mo.gillianmalthus.shop
 mo.gushiji.cc
 mo.haloapps.cn
 mo.kugou.com
@@ -120926,6 +120930,7 @@ mobileapptracking.com
 mobilebanner.ru
 mobileconfig.sascdn.com
 mobilecontent.networks.prod.p0.phx-infra.com
+mobilecontents.mobi
 mobilecore.com
 mobilecrashreporting.googleapis.com
 mobiledetect.app
@@ -135405,6 +135410,7 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
+panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -141259,6 +141265,7 @@ pretty-fly4.com
 pretty-fly4.net
 pretty-site.com
 pretty-sluts-nearby.com
+pretty-weekend.pro
 prettybicycle.com
 prettydemo.com
 prettyeasycafe.com
@@ -154781,6 +154788,7 @@ s.diypoolsandspas.com
 s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
+s.doyo.cn
 s.dpmsrv.com
 s.dreamland-plc.com
 s.dressforfun.de
@@ -156993,7 +157001,6 @@ saz.mybluehost.me
 sb-hip-happy.ourservice.jp
 sb-money.ru
 sb-stat1.com
-sb-z-uzou-fukunoturu.discover-news.tokyo
 sb.bidswitch.net
 sb.fiskbilen.se
 sb.goadserver.com
@@ -180582,6 +180589,7 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
+sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -191218,6 +191226,7 @@ tag.uplift.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
+tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waterworldmedford.com
@@ -201456,6 +201465,7 @@ trgeb.lovecrafts.com
 trgfx.b-cdn.net
 trgp7pddid.com
 trgttlkl.com
+trhbzleg.com
 trhfq.rimli.in
 tri.media
 triaceprances.com
@@ -205768,6 +205778,7 @@ upl.net-solutions.vn
 uplatiason.com
 uplcm.com
 uplift-platform.com
+upliftsearch.com
 upload-ad.long.tv
 upload.kipa.co.il
 upload.luckyorange.net
@@ -206416,7 +206427,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -215732,6 +215742,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -220700,6 +220711,7 @@ ybpxv.com
 ybqsgz.surfmall.co.kr
 ybqteyuhurgdj.online
 ybrantdigital.com
+ybrkzbrwrfp.com
 ybrlwm.com
 ybrvrws2p9.com
 ybs.mybluehost.me
