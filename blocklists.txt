@@ -15969,7 +15969,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -16931,7 +16930,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -19949,7 +19947,9 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -27638,6 +27638,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40704,6 +40705,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -40831,7 +40833,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zamunda.ru
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -48860,6 +48861,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -49155,6 +49157,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -50196,7 +50199,6 @@ cynoprid.com
 cyntgd.anticipazionitv.it
 cynzybmckvjxg.store
 cyohmj.catawiki.com
-cyoy.bhalobasharchoya.com
 cypherscans.xyz
 cypqiwuoqpbnbs.com
 cypressbygone.com
@@ -54876,7 +54878,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -69886,16 +69887,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -71727,6 +71725,7 @@ findbetterresults.com
 findcalculator.com
 findclicksaveopen.click
 findclicksaveopen.monster
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -74026,7 +74025,6 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -75518,6 +75516,7 @@ galas3xy.com
 galav-oxwy.mushroomtrack.com
 galaxbalilla.click
 galaxiemedia.fr
+galaxien.com
 galaxy.bz.mgtv.com
 galaxyattack-de0bd.firebaseio.com
 galaxyfox.io
@@ -79906,6 +79905,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 grhte.medicinanatur.blog
 gribao.com
@@ -89071,7 +89071,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -92839,6 +92838,7 @@ informperacid.com
 informsgainalexis.com
 informsuppercocktail.com
 inforsea.com
+infos-sundhed.com
 infos.anz-originator.com.au
 infos.anz.com
 infos.anz.com.au
@@ -101630,7 +101630,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -123928,7 +123927,6 @@ mystats.flixfiend.top
 mystats.nl
 mystauth.com
 mysterious-emotion.com
-mysterious-one.pro
 mysterious-sink.pro
 mysteriousprocess.com
 mystery-forest.com
@@ -128144,7 +128142,6 @@ nymllqnuvxbsz.online
 nymphszymosis.qpon
 nympl.cwspirits.com
 nymsdhtpngjip.space
-nynlbkolof.com
 nynnde.gandalf.com.pl
 nyokruzoir.com
 nyom.nyambay.com
@@ -131881,7 +131878,6 @@ ointmentapathetic.com
 ointsumpman.com
 oiodyx.baldur-garten.de
 oiotndkgyhcoc.site
-oiourohpyrq.com
 oipvs.banknoteworld.com
 oipzyrzffum.ovh
 oirdwcadrzrqj.online
@@ -138400,7 +138396,6 @@ pieclayton.com
 pieejami.tilde.ai
 piefortcreaker.cyou
 pieletevasive.qpon
-piercing-distribution.pro
 piercing-flower.com
 piercingidea.pro
 piercingtotal.pro
@@ -140759,6 +140754,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -143947,7 +143943,6 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
-pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pvfbav.sportler.com
@@ -145837,7 +145832,6 @@ quitzon.net
 quiveringagreed.com
 quixoteluxates.cyou
 quixotic-charity.com
-quixotic-external.pro
 quixotic-high.com
 quixoticnebula.com
 quixoticzest.com
@@ -161825,6 +161819,7 @@ server.mayerkouta.com
 server.mazefragrance.com
 server.mazzonnature.com.br
 server.mcmoney24.de
+server.mdrscom.net
 server.mecanismo6d.leomacieira.com.br
 server.mecca.edialoguec.org.sa
 server.mechamorenatinho.com.br
@@ -170853,7 +170848,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -178151,6 +178145,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -180799,7 +180794,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -186407,6 +186401,7 @@ stats.libresse.ua
 stats.lightsbytena.be
 stats.lightsbytena.fi
 stats.lightsbytena.fr
+stats.limitlessnetworks.eu
 stats.linerly.xyz
 stats.litemob.net
 stats.live-video.net
@@ -188451,7 +188446,6 @@ suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -191490,7 +191484,6 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
-tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -216124,7 +216117,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
