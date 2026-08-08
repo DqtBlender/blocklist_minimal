@@ -310,7 +310,6 @@
 007yyy.com
 007zeed.com
 008.info
-008015.xyz
 008095.com
 008288.com
 00852110.com
@@ -13109,6 +13108,7 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
+adhub.ru
 adhubly.com
 adhudg.nec-lavie.jp
 adhunt.net
@@ -19953,7 +19953,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21113,6 +21112,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22878,7 +22878,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -23268,7 +23267,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -26662,7 +26660,6 @@ appboycdn.com
 appcast.io
 appcenter-api.bignox.com
 appcfg.v.qq.com
-appclick.net
 appclick.rqmob.com
 appclicking.com
 appcloud2.zhihu.com
@@ -27643,6 +27640,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -43728,7 +43726,6 @@ cliente.rte.com.br
 clienteautoportal.com
 clientengagement.ehpartners.com
 clientgear.com
-clientinfo.phimmoizz.net
 clientlimit.com
 clientlog.midomi.com
 clientlog.music.163.com
@@ -49166,6 +49163,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -54886,7 +54884,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -55436,7 +55433,6 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
-data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -69900,16 +69896,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -74040,7 +74033,6 @@ freefromads.com
 freefromads.pro
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -83435,7 +83427,6 @@ gtm.useupdate.com.br
 gtm.usewellfiit.com.br
 gtm.usjoblink.com
 gtm.uticket.com.br
-gtm.vaaptycampogrande.com
 gtm.vaaptylondrina.com.br
 gtm.valcele.eu
 gtm.valentinahomedecor.com.br
@@ -89087,6 +89078,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -96855,6 +96847,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -101650,7 +101643,6 @@ lazada.bet
 lazada.demdex.net
 lazada.obs.cn-north-1.myhuaweicloud.com
 lazada1688.com
-lazada77.com
 lazadaapp.shop
 lazalogistics.ph
 lazboy.demdex.net
@@ -127543,7 +127535,6 @@ ns2.namebrightdns.com
 ns2.omtrdc.net
 ns2.sfj.pnap.net
 ns2.w3open.com
-ns3.name
 ns336739.ip-37-187-249.eu
 ns38541.ovh.net
 ns3w1qrlbk4s.tip.etip-staging.etip.io
@@ -128134,7 +128125,6 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -136817,6 +136807,7 @@ paxzslunbisvh.online
 pay-ads.com
 pay-click.ru
 pay-hit.com
+pay.cld36a.top
 pay.com
 pay.getadmiral.com
 pay.i-h3dhgj8q3wnzeox7.online
@@ -140779,6 +140770,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -142985,7 +142977,6 @@ pt.oblastwastery.com
 pt.pornhub.llc
 pt.stoachdarts.com
 pt.stripchat.com
-pt.supersbugsha.com
 pt.themoneytizer.com
 pt.trafficjunky.net
 pt.vl.amdcwskhsz.idy360.com
@@ -155510,6 +155501,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -161852,6 +161844,7 @@ server.mayerkouta.com
 server.mazefragrance.com
 server.mazzonnature.com.br
 server.mcmoney24.de
+server.mdrscom.net
 server.mecanismo6d.leomacieira.com.br
 server.mecca.edialoguec.org.sa
 server.mechamorenatinho.com.br
@@ -170882,6 +170875,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -180830,7 +180824,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -191416,6 +191409,7 @@ tag.uplift.com
 tag.userreport.com
 tag.vezzi.pl
 tag.vitallsportsclassics.com
+tag.viva-cruises.com
 tag.vlitag.com
 tag.voice.zetacx.net
 tag.waf360.com
@@ -191524,7 +191518,6 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
-tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -191571,7 +191564,6 @@ taghribnews.com
 taginova.xyz
 taginstall.com
 tagivi.com
-tagjsirw.com
 tagjunction.com
 tagm.tchibo.at
 tagm.tchibo.com.tr
@@ -206773,6 +206765,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -221457,7 +221450,6 @@ yeujiaqyeafyj.site
 yeukcqecubdcb.space
 yeuszfvmmzsng.website
 yevvzltyoxbuy.website
-yewfjsdi.it.com
 yewrcd.govoyages.com
 yewsgooney.com
 yexhsrfcrukeg.online
@@ -223228,7 +223220,6 @@ zazmbb.icu
 zazporn.com
 zazufi.com
 zb-mob2.websearchapp.com
-zb.ayapanatwicer.com
 zb.mutantseggnogs.shop
 zb.penniedcrig.com
 zb.prostsouther.com
@@ -223818,7 +223809,6 @@ zhskj.ghostgolf.com
 zhssbkawltlyu.website
 zhteknutoy.com
 zhtlcf.cam
-zhuboltfqg.com
 zhudy2c.lol
 zhugeio.com
 zhugezhanggui.com
