@@ -10224,7 +10224,6 @@ abcdserver.com
 abcj.dooccn.com
 abckamai.com
 abckcountry.pxf.io
-abcmoney.xyz
 abcnews.hb-api.omtrdc.net
 abcnews.tt.omtrdc.net
 abcnewshub.com
@@ -14547,6 +14546,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -19947,8 +19947,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
+allfail-www.east.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21106,6 +21105,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22873,6 +22873,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -26481,6 +26482,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26609,7 +26611,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -31567,6 +31568,7 @@ bbxkqbbqwzojv.space
 bbybqq.levi.co.id
 bbysa.aprica.com
 bbyyqitxuplnz.site
+bbzkmtnsvalm.com
 bbznqba.boxgenie.com
 bbztmceiyhybz.space
 bc-news.net
@@ -44623,7 +44625,6 @@ cnfgeouygw.biz
 cnfgeouygw.info
 cngbpl.directliquidation.com
 cngcpy.com
-cngewtky.com
 cnhuxrpiawywk.space
 cnhv.co
 cnid.condenastdigital.com
@@ -63656,7 +63657,6 @@ eb5882aef0.com
 eb5e68dd19.com
 eb6908f715.fae299940f.com
 eb9cg4trk.com
-ebaaabtwibf.com
 ebanking.wiopm.com
 ebannertraffic.com
 ebatndolrzsxc.space
@@ -78563,6 +78563,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -89089,7 +89090,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -98220,6 +98220,7 @@ kadmimage.biz.weibo.com
 kadrawheerga.com
 kads.k-network.com
 kadta.hecostix.com
+kadvemfcxjqb.com
 kadxin.net
 kaefwe.faol.it
 kaeslantana.cfd
@@ -119494,6 +119495,7 @@ mindmeters.biz
 mindoccupy.com
 mindopennews.com
 mindopu.com
+minds.com
 mindseyewitness.com
 mindsleep.net
 mindsswink.cyou
@@ -128133,6 +128135,7 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
+nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -146367,6 +146370,7 @@ r1---sn-2oq4f5-c4.c.2mdn.net
 r1---sn-2oq4f5-cc.c.2mdn.net
 r1---sn-2ot0a5-5w.c.2mdn.net
 r1---sn-4g5e6ns7.c.2mdn.net
+r1---sn-4g5edn6r.c.2mdn.net
 r1---sn-4g5ednde.c.2mdn.net
 r1---sn-4g5ednkk.c.2mdn.net
 r1---sn-4g5ednkl.c.2mdn.net
@@ -147707,7 +147711,6 @@ r4---sn-2op5q5-5n.c.2mdn.net
 r4---sn-2oq4f5-c4.c.2mdn.net
 r4---sn-2oq4f5-cc.c.2mdn.net
 r4---sn-2ot0a5-5w.c.2mdn.net
-r4---sn-4g5edn6r.c.2mdn.net
 r4---sn-4g5ednkd.c.2mdn.net
 r4---sn-4g5ednkk.c.2mdn.net
 r4---sn-4g5ednks.c.2mdn.net
@@ -178181,7 +178184,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -192864,7 +192866,6 @@ tbmgyz.centerparcs.de
 tbmods.ru
 tbmoxtvskajqz.space
 tbn.ru
-tboa.club
 tbodclpaicx.com
 tbp.be-performance.com
 tbpot.com
@@ -210886,7 +210887,6 @@ vqydliiyda.net
 vqzoqqnjolnbl.site
 vr.ad-stir.com
 vr.fanzacom.live
-vr.namersreminds.com
 vr.prpscroff.com
 vr.wharvemotet.com
 vr54.youkechina.cn
@@ -216178,7 +216178,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
