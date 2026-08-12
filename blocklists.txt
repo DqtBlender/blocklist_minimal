@@ -1738,6 +1738,7 @@
 1-search.net
 1-sefon.pro
 1-up.me
+1-winbet.com
 1-ws.com
 1-yo.com
 1-you.njalla.no
@@ -2784,7 +2785,6 @@
 123movies-to.info
 123movies.market
 123movies.study
-123movies.training
 123movies123.online
 123movies1free.com
 123movies2.com
@@ -3927,6 +3927,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1mj.xyz
 1mlnlks.com
@@ -14539,6 +14540,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15954,7 +15956,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -19935,7 +19936,6 @@ alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allfile.me
 allforyourlife.org
 allfreecounter.com
@@ -21097,6 +21097,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22884,7 +22885,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -26515,6 +26515,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26644,6 +26645,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xiaomi.com
 app.xizi.com
 app.yesware.com
@@ -27671,7 +27673,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40813,7 +40814,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.starseed.fr
@@ -40915,6 +40915,7 @@ cdn.webpush.jp
 cdn.webpushr.com
 cdn.welcome.pussysaga.com
 cdn.wheelio-app.com
+cdn.whitellllshop.icu
 cdn.wiztube.xyz
 cdn.wootric.com
 cdn.wshareit.com
@@ -60534,6 +60535,7 @@ dnset.com
 dnspy.org
 dnsscan.shadowserver.org
 dnt-userreport.com
+dntds.shop
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
 dnutc.modularclosets.com
@@ -60645,6 +60647,7 @@ dof9zd9l290mz.cloudfront.net
 dofattv.com
 dofca.thebeardstruggle.com
 doflygonan.com
+dofpwadx.com
 dofrhyluyqtex.online
 doftec.com
 dog.christinamoore.us
@@ -64135,7 +64138,6 @@ ecommrce-web-amazon.netlify.app
 ecommstats.com
 ecommstats.s3.amazonaws.com
 ecommu.itu.com
-ecommunication.mti.com
 ecomsend.com
 econda-monitor.de
 economicadvantage.midamerican.com
@@ -66993,6 +66995,7 @@ ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
 ep4p.com
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -77026,6 +77029,7 @@ get.ukg.in
 get.ukg.mx
 get.ukg.nl
 get.venmo.com
+get.whitelllshop.icu
 get.xclick24.com
 get2.fun
 get35.com
@@ -90289,6 +90293,7 @@ ihlfikzmbeyob.space
 ihlnh.tires-fast.com
 ihmonitor.luckincoffee.us
 ihnbqe.shane.co.jp
+ihnxftay.com
 ihostfull.com
 ihpyig.hometogo.ch
 ihqcdcwzcte.com
@@ -93665,6 +93670,7 @@ insights.journey.world
 insights.juspay.io
 insights.kitestring.com
 insights.knns.nl
+insights.kruizinga.de
 insights.labcorp.com
 insights.littletikescommercial.com
 insights.lullabot.com
@@ -93803,7 +93809,6 @@ instant.one
 instant.page
 instant4ck.com
 instantbannercreator.com
-instantcash.ru
 instantconservativedetect.com
 instantdeceived.com
 instantdollarz.com
@@ -106600,6 +106605,7 @@ load.insidermsd.menopausasemduvida.com
 load.insight.ateliersantita.com
 load.insight.shopcaspri.com
 load.insights.hyperswitch.io
+load.insights.kruizinga.lu
 load.instinctiveads.com
 load.intern.evolve-digital.de
 load.internal1.fttfunded.com
@@ -111735,6 +111741,7 @@ lustp.com
 lustpornmovies.com
 lustre.ai
 lustreperspiration.com
+lustrous-nurse.com
 lustrousaverage.com
 lustroushaven.com
 lustrumearned.cfd
@@ -123535,7 +123542,6 @@ muepkdedxoeik.space
 muffinfeudalactually.com
 muffinsum.com
 muffishsharers.shop
-muffledcombine.pro
 muffledmy.com
 mufflelengthen.com
 mufpamrilrdfr.site
@@ -138536,6 +138542,7 @@ pgapi.ksmobile.com
 pgc5000di6pg.www.brizy.io
 pgc5buffxoxkmqmb.cfd
 pgcx8fnjup8yog7lz3zcv.cfd
+pgcxervtk.com
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
 pgdudllfjgeyy.online
@@ -141395,7 +141402,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -142941,6 +142947,7 @@ profoundshaken.com
 profserv01.smaato.net
 profullversion.net
 profuse-author.pro
+profuse-direction.com
 profusejudgment.pro
 profusestubber.cfd
 profusesupport.com
@@ -149823,6 +149830,7 @@ rbrooftopmails.com
 rbrxg.com
 rbrzcu.green-acres.gr
 rbs.tt.omtrdc.net
+rbs.whitellllshop.icu
 rbsfckgfwpgnr.site
 rbsifiqnyrhfd.space
 rbsiwzkxqrfkw.site
@@ -167198,6 +167206,7 @@ shows.anticipate-london.com
 showsclicka.com
 showsteel.com
 showtalk.jp
+showy-share.com
 showyourevent.com
 showyoursite.com
 shpdata.com
@@ -178894,7 +178903,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
@@ -184958,7 +184966,6 @@ stape.rhmaistalentos.com.br
 stape.ribascontabilidade.com.br
 stape.ricieri.net.br
 stape.rico.bet.br
-stape.ridenation.com.br
 stape.rifa321.com
 stape.rinaldiartemusical.com.br
 stape.rivio.com.br
@@ -193878,6 +193885,7 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdtc.shop
 tdtfga.healingpinesrecovery.com
 tdum.alibaba.com
@@ -217018,6 +217026,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -222752,6 +222761,7 @@ yllaris.com
 yllgeh.com
 ylligknjyhnpr.space
 yllix.com
+ylmedicinaestetica.com
 ylmqwj.sumikominavi.com
 ylodbhduliqpc.online
 ylog.hiido.com
