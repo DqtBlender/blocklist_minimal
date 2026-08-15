@@ -1530,7 +1530,6 @@
 0nthemarket.com
 0nyzdw2maq.com
 0o2.net
-0o5y.com
 0oi1ej7mo.com
 0oo9j37xp.com
 0otmh22aj2.com
@@ -14277,6 +14276,7 @@ ads-privacy-api.prd.mz.internal.unity3d.com
 ads-privacy.vidaahub.com
 ads-prod-narrowcasting.s3.us-west-2.amazonaws.com
 ads-production-public.s3.amazonaws.com
+ads-production-public.s3.us-east-1.amazonaws.com
 ads-pubsfusion.com
 ads-query.luizalabs.com
 ads-redis.ecn.cl
@@ -14535,7 +14535,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -16980,7 +16979,6 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
-advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -18222,7 +18220,6 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
-affiliates.vpn.ht
 affiliates.woodbrass.com
 affiliates.xapads.com
 affiliatesensor.com
@@ -20016,8 +20013,6 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -22945,7 +22940,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -25264,6 +25258,7 @@ api.metodoadt.com
 api.metodohigservice.com.br
 api.metrics.eu-south-2.iris.apx.amazon.dev
 api.metrics.eu-west-1.iris.apx.amazon.dev
+api.metrics.us-east-1.iris.apx.amazon.dev
 api.metrike.com
 api.meuconselheiro.com
 api.mfgodontologia.com.br
@@ -26555,6 +26550,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26684,6 +26680,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.yesware.com
 app.your.csc.com
@@ -43531,6 +43528,7 @@ click.shootproof.com
 click.simba.taobao.com
 click.socialsecurityupdate.org
 click.startappservice.com
+click.stg-transactions.canadapost-postescanada.ca
 click.suning.cn
 click.tecdo-ec.com
 click.techtree.jp
@@ -43664,7 +43662,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickmsummer.com
@@ -45867,7 +45864,6 @@ cometlytrack.com
 cometquote.com
 cometzone.com
 comeurged.com
-comfortableassignment.pro
 comfortablecheese.com
 comfortablepossibilitycarlos.com
 comfortclick.co.uk
@@ -51181,7 +51177,6 @@ d1nkcqm1nusqof.cloudfront.net
 d1nkvehlw5hmj4.cloudfront.net
 d1nmhytiylvrwa.cloudfront.net
 d1nmxiiewlx627.cloudfront.net
-d1nnhbi4g0kj5.cloudfront-production-public.s3.us-east-1.amazonaws.com
 d1nnhbi4g0kj5.cloudfront.net
 d1now6cui1se29.cloudfront.net
 d1nr5af9lc58ok.cloudfront.net
@@ -55612,6 +55607,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.ultramotorhn.com
 data.info.venetianlasvegas.com
 data.info.viking.com
@@ -59695,6 +59691,7 @@ discreetquarter.com
 discreettouchsurvival.com
 discrepancyabsolution.com
 discrepancydazzlespanner.com
+discrete-back.com
 discretionarraignment.com
 discretioningratitudeadvisedly.com
 discriminationmercurycreature.com
@@ -67212,7 +67209,6 @@ eqilyppdackel.website
 eqingl.ivet.bg
 eqit9pzsxz.appspot.com
 eqizpgutcgers.online
-eqjxnkbemrecr.com
 eqkltgnbbygnv.website
 eqkwat.histoiredor.com
 eql.mondaymerch.com
@@ -89754,7 +89750,6 @@ id-vietconbank1.uuhuqtp.nethost-4011.000nethost.com
 id-visitors.com
 id-ward.com
 id.a-mx.com
-id.acustomdhotee.shop
 id.adsplay.net
 id.afterceltdom.com
 id.analytics.glance.inmobi.com
@@ -97302,7 +97297,6 @@ jpboden.demdex.net
 jpbsggqehlopl.online
 jpcjzcrkrugie.online
 jpcvwo.qtoon.co.kr
-jpdciphmbk.com
 jpfjltsmlrimq.site
 jpftozbnnbqxj.site
 jpfufu.xlmoto.co.uk
@@ -101955,6 +101949,7 @@ lawfulpatience.com
 lawgiverblue.net
 lawksister.shop
 lawmakecluther.com
+lawperspective.com
 lawrencekentucky.com
 lawrieominousclogwyn.cfd
 lawsage.ai
@@ -145720,6 +145715,7 @@ qpqgb.nordiccatch.com
 qprfs.drunkelephant.com
 qprod2.net
 qprskl.com
+qps.cint.com
 qpsbd.lksneakers.com.br
 qptfdtjasvzmb.site
 qptghqpgmdqhl.online
@@ -146501,6 +146497,7 @@ qxkous.sweet-mommy.com
 qxlshnvo.7oh.com
 qxlshnvo.try7hydro.com
 qxn9qlvmca.com
+qxnomluq.com
 qxnuan.noo-paris.com
 qxpxrbettkskb.space
 qxqjccxfiihvf.online
@@ -157677,6 +157674,7 @@ sbdhdq.zeeman.com
 sbdtds.com
 sbeacon.sina.com.cn
 sber.cod63.com
+sber.sell2dealer.com
 sbermarketing.ru
 sbfsdvc.com
 sbfw.work
@@ -189852,6 +189850,7 @@ sweetnessnewest.com
 sweetnessspeaksintimidate.com
 sweetpacks.com
 sweetsandswipes.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 sweettoothbags.com
@@ -194741,6 +194740,7 @@ tfrln.prostatehealthreport.com
 tfrmb.com
 tfrsrch.com
 tfsqyeb.cn
+tft-test.ru
 tftfbezn.com
 tftjgl.brice.fr
 tftkzr.happy-size.at
@@ -207317,7 +207317,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -212654,6 +212653,7 @@ watermarkinsights.com
 waterproofgranitegag.com
 waterproofwheelbarrow.com
 waterscorporation.demdex.net
+watery-accident.com
 watery-concert.pro
 watery-possession.pro
 watery-result.com
@@ -216752,6 +216752,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -217062,7 +217063,6 @@ www.bus-offer.com
 www.buysellads.com
 www.cadvision.com
 www.cafecasino.lv
-www.calmde.com
 www.calmdockpb.name
 www.calnanflack.com
 www.caloriemania.com
