@@ -2667,7 +2667,6 @@
 1234567890.online
 12345777.com
 12345movies.net
-12345vip.com
 123469.com
 1234annuitysendmktgs.com
 1234cash.com
@@ -5615,7 +5614,7 @@
 48583ed9cf.com
 4863232c.xyz
 486bb.com
-489a19fa-d831-4954-858d-46436d5cdb20.event.co
+489a19fa-d831-4954-858d-46436d5cdb20.event.collector.scopely.io
 489a19fa-d831-4954-858d-46436d5cdb20.register.collector.scopely.io
 489vv47u8.com
 48ak.com
@@ -10265,6 +10264,7 @@ abc.vedobi.in
 abc.versiloqa.com
 abc.vilimed.com
 abc.vilvahstore.com
+abc.vintafurniture.com
 abc.withblip.com
 abc.woodsea.studio
 abc.xn--bserkater-07a.de
@@ -14617,6 +14617,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -18229,7 +18230,6 @@ affiliates.thrixxx.com
 affiliates.treasureisland.com
 affiliates.ultrahosting.com
 affiliates.videoslots.com
-affiliates.vpn.ht
 affiliates.woodbrass.com
 affiliates.xapads.com
 affiliatesensor.com
@@ -20027,7 +20027,7 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.all.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -21194,6 +21194,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-data.classlink.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22967,6 +22968,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopdutyfree.com
@@ -23351,7 +23353,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -27742,6 +27743,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -37564,7 +37566,6 @@ byehd3.life
 byehero.com
 byescrollnitrogen.com
 byet.org
-byethost14.com
 byethost18.com
 byethost4.com
 byethost9.com
@@ -40957,6 +40958,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sqrtl.com
@@ -49179,6 +49181,7 @@ crowcanyon.com
 crowd.novaon.asia
 crowded-you.pro
 crowdedmass.com
+crowdgravity.com
 crowdignite.com
 crowdscience.com
 crowdskout.com
@@ -55210,6 +55213,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -59805,6 +59809,7 @@ discordianbliss.com
 discordinvites.net
 discordvip.createsocialcard.top
 discospizza.com
+discount.jmoutfit.com
 discount63.top
 discountclick.com
 discountplacidlysymphony.com
@@ -69476,7 +69481,6 @@ exitmoney.com
 exitmonitor.com
 exitsurgeoneliminate.com
 exixnnmmqkc.com
-exiyrtpcucn.com
 exjsyuhjwjyzr.space
 exkgtbwoereyg.online
 exkunden.info
@@ -70402,9 +70406,7 @@ falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -74577,7 +74579,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -77803,7 +77804,6 @@ ghghgf.51dongshi.com
 ghghgf.xuexiwa.com
 ghgsdzfzzunmb.online
 ghhxnabvunfey.store
-ghiczvfpaakdj.com
 ghidralite.com
 ghifrc.baldai1.lt
 ghishiozvcmi.in
@@ -78258,6 +78258,7 @@ gl-adsrv.rtbsuperhub.com
 gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -94043,6 +94044,7 @@ installerastonishment.com
 installercommotion.com
 installingsilly.com
 installiq.com
+installp.com
 installpack.net
 installprudentmerriment.com
 installspal.com
@@ -97434,6 +97436,7 @@ joqawz.snipes.nl
 joqdd.madeincookware.com.au
 joqowqymkrywy.top
 jorammeatman.com
+jordan.qunis.ru
 jordan.zcdn.click
 jordans.gr
 jornal.tesouros-da-julia.com
@@ -103764,7 +103767,6 @@ linen-static.online
 linenvirginityclient.com
 lineodtpdajrz.store
 lineoflife.ru
-lines-metric.h16.ru
 lines.superkot.com
 lineside.networkrail.co.uk
 linesys.jp
@@ -115311,7 +115313,6 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
-mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -122277,7 +122278,6 @@ moneralsramana.shop
 moneraltilting.com
 moneren.net
 monerise.com
-monero.hashvault.pro
 monerohash.com
 monerominer.rocks
 moneroocean.stream
@@ -125086,6 +125086,7 @@ nappyattack.com
 nappyneck.com
 nappyonsetstiffness.com
 napquatet.com
+naprfjbdpqn.com
 napthe.asia
 napthe.me
 napthe.online
@@ -128796,7 +128797,6 @@ nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
 nycandcompany.demdex.net
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -141157,7 +141157,6 @@ poogliptailomer.net
 poohsrebuild.shop
 pooksys.site
 pool.admedo.com
-pool.hashvault.pro
 pool.supportxmr.com
 poolcoolukprese.org
 poolcushions.com
@@ -141519,6 +141518,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -156270,6 +156270,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -171669,6 +171670,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -176249,7 +176251,6 @@ srv.config.parsely.com
 srv.crmixmaster.com
 srv.daly2024.com
 srv.de.ebayrtm.com
-srv.divorciosya.cl
 srv.dojiclub.com
 srv.doltech.pl
 srv.dynamicyield.com
@@ -181630,7 +181631,6 @@ sst.ronanenright.com
 sst.roncato.com
 sst.roofing4us.com
 sst.roomescaperoom.ch
-sst.roseysmark.com
 sst.rotpunkt.no
 sst.rovostravel.com
 sst.royalpalacebedding.com
@@ -189292,6 +189292,7 @@ suicidalruse.com
 suicideispreventable.org
 suidaohgl.com
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -207689,6 +207690,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -218725,6 +218727,7 @@ www.woopra.com
 www.wootric.com
 www.worlds-best-online-casinos.com
 www.wrestlewebnews.com
+www.www.my-exodus.com.co
 www.www.superset-qa.sese.cn
 www.wz-zjol-com-cn.garvin.cn
 www.xadsmart.com
