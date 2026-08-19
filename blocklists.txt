@@ -35,7 +35,6 @@
 0.fashion
 0.fit
 0.html-load.cc
-0.ixsite.com
 0.kkohls.com
 0.miami
 0.myikas.com
@@ -14155,7 +14154,6 @@ adplsr.com
 adplug.org
 adplugg.com
 adplugg.io
-adplus.co.id
 adplus.io
 adplus.yonhapnews.co.kr
 adplushome.com
@@ -14713,6 +14711,7 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
+ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14783,7 +14782,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15674,7 +15672,6 @@ ads.watson.ch
 ads.weather.ca
 ads.web.de
 ads.web.tr
-ads.web1tv.de
 ads.webcafe.bg
 ads.webhosting.info
 ads.webinak.sk
@@ -20178,6 +20175,7 @@ aliquotdiols.com
 alisg-normal-lb.byteoversea.net
 alisgp-sentry.d.xiaomi.net
 alisomymar.shop
+alisongaudino992.wixsite.com
 alisonmassier.cfd
 alitalia.demdex.net
 alitems.co
@@ -20269,7 +20267,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -21485,7 +21483,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23419,6 +23416,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -25593,7 +25591,6 @@ api.dreww.ca
 api.drflaviogodoy.com.br
 api.drgilbertovianna.com.br
 api.drjoabecarneiro.com.br
-api.drjoaodinali.com.br
 api.drjoaomarioleal.com.br
 api.drmessiasneuro.com.br
 api.drniedermaier.de
@@ -27672,6 +27669,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28750,7 +28748,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -48734,6 +48731,7 @@ config.chsmarttv.com
 config.claspws.tv
 config.cloudflarebolt.com
 config.cmpassport.com
+config.eastus-ssp.appgwv2.inmobi.com
 config.emb-api.com
 config.inbold.com
 config.inmobi.cn
@@ -57393,7 +57391,6 @@ data-af44ba1484.apps.iocnt.de
 data-af69d737cf.vision-mobility.de
 data-af7593657a.apps.iocnt.de
 data-af9a061aaf.deraktionaer.de
-data-af9f2765fb.apotheken-umschau.de
 data-af9f3dfb33.weltkunst.de
 data-af9f3dfb33.zeit.de
 data-afa7d79a5a.apps.iocnt.de
@@ -60953,7 +60950,6 @@ data4.ojto.pl
 data527.click
 data741.click
 data852.click
-data9.econa.com
 data963.click
 datab2b.onefitnessclub.fr
 datab2c.onefitnessclub.fr
@@ -71547,7 +71543,6 @@ emoney2017.com
 emoneyspace.com
 emong.org
 emoryday-analytics.com
-emoteev.io
 emoticon-sns.iqiyi.com
 emotingwombed.cfd
 emotional-orange.com
@@ -72506,6 +72501,7 @@ epicclicks.net
 epicenerepoint.shop
 epicgameads.com
 epicgolive.rainresources.com
+epicluckyday.com
 epicoldschool.com
 epicooler-ss.checkoutera.com
 epicpotec.com
@@ -88351,13 +88347,10 @@ gtm.breveceramica.com.br
 gtm.bricoflor.at
 gtm.bricoflor.be
 gtm.bricoflor.co.uk
-gtm.bricoflor.cz
 gtm.bricoflor.de
 gtm.bricoflor.fi
 gtm.bricoflor.fr
-gtm.bricoflor.it
 gtm.bricoflor.nl
-gtm.bricoflor.pl
 gtm.bricoflor.se
 gtm.briconeo.es
 gtm.briconeo.pt
@@ -89754,7 +89747,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -96706,7 +96698,6 @@ hnwbhkraakeyp.site
 hnwifmsebxemw.site
 hnwin.com
 hnwlazmnkzwxj.space
-hnwqolckynifk.website
 hnwtejxpmyqlk.website
 hnwttl.re-katsu.jp
 hnxbnj.rippedupnutrition.com
@@ -134620,7 +134611,6 @@ mobiledevel.com
 mobiledl.adboe.com
 mobilefuse.com
 mobilefuse.net
-mobilegamerstats.com
 mobilegamestats.com
 mobilelog.kugou.com
 mobilelog.upqzfile.com
@@ -137994,7 +137984,6 @@ naptheff.net
 naptheff.org
 naptheff.vn
 napthefreefire.mobi
-napthefreefire.vn
 napthelienquan.net
 napthengay.net
 napthepubg.mobi
@@ -140347,7 +140336,6 @@ nlvuh.longtermdenial.com
 nlvxwyesryreu.space
 nlxkzo.friopecas.com.br
 nlxpsparlszfu.space
-nlyhovtjoknoo.site
 nlykgmhozbcee.online
 nlytcs.diffen.com
 nlytcs.idfnet.net
@@ -141251,6 +141239,7 @@ nrjbow.datingplacee.com
 nrjbow.datingzonee.com
 nrjbow.datingzoone.net
 nrjbow.ddatingvibe.com
+nrjbow.effectlvedate.net
 nrjbow.fiindlovedate.com
 nrjbow.flndiove.net
 nrjbow.girllforyoulove.com
@@ -161302,7 +161291,6 @@ r.akipam.com
 r.anamagnani.com.br
 r.anime-go.cc
 r.apkpure.net
-r.apotheken-umschau.de
 r.archertube.com
 r.bbci.co.uk
 r.bidswitch.net
@@ -166934,10 +166922,8 @@ rgtm.bestvit.de
 rgtm.cosmedischinstituut.be
 rgtm.cosmeta.hu
 rgtm.de5smil.dk
-rgtm.doggysafe.de
 rgtm.mydieselpro.com
 rgtm.penez.be
-rgtm.plt4m.com
 rgtm.rhng.com.au
 rgtm.shiaqgaessentials.com
 rgubhknmmseuy.space
@@ -171183,7 +171169,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -183227,12 +183212,10 @@ sgtm.vanillabeankings.com
 sgtm.vanlife.us
 sgtm.vbs-hobby.at
 sgtm.vbs-hobby.be
-sgtm.vbs-hobby.ch
 sgtm.vbs-hobby.com
 sgtm.vbs-hobby.cz
 sgtm.vbs-hobby.fr
 sgtm.vbs-hobby.nl
-sgtm.vbs-hobby.pl
 sgtm.vdi-wissensforum.de
 sgtm.vdnkitchen.nl
 sgtm.veatzz.com
@@ -187807,7 +187790,6 @@ smetrics.glasses.com
 smetrics.global.jcb
 smetrics.global.mandg.com
 smetrics.global.nba.com
-smetrics.global.tommy.com
 smetrics.globalbmsmedinfo.com
 smetrics.globaldeliveryinitiative.org
 smetrics.globalfinancingfacility.org
@@ -190571,7 +190553,6 @@ smo.mybluehost.me
 smoads.com
 smobile.wotif.com
 smodus.nike.com
-smoggy-twist.pro
 smoggyfeed.com
 smoggysnakes.com
 smoggysongs.com
@@ -198348,6 +198329,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -214935,6 +214917,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -215554,6 +215537,7 @@ talkfusion.com
 talkiesraia.com
 talkingdata.com
 talkingdata.net
+talkingirlss.com
 talkmosaic.com
 talkscreativity.com
 talkspacetracksdk.optimove.net
@@ -217450,7 +217434,6 @@ temptation.ad.nl
 tempttable.com
 temptteam.com
 tempuri.org
-tems.com
 temsys.temsys.fr
 temuaffiliateprogram.pxf.io
 ten-zaru.com
@@ -220762,6 +220745,7 @@ tp.hit.stat24.com
 tp.imwalking.de
 tp.jelmoli-shop.ch
 tp.kws.com
+tp.lairdsprefer.com
 tp.lascana.at
 tp.lascana.ch
 tp.lexisnexis.co.nz
@@ -226187,7 +226171,6 @@ trend-log.aifrwk.com
 trend-micro.pxf.io
 trendads.reactivebetting.com
 trendbuzz.to
-trendcounter.de
 trendemon.com
 trendentrium.com
 trendii.com
@@ -227248,7 +227231,6 @@ truehits3.gits.net.th
 truejasmine.com
 trueleadid.com
 truellovedating.com
-truelovedate.net
 trueloveonlinee.com
 trueloveonlinee.net
 trueloverzones.org
@@ -231779,7 +231761,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -232000,7 +231981,6 @@ utiq.actu.net
 utiq.aisnenouvelle.fr
 utiq.allocine.fr
 utiq.annalect.es
-utiq.apotheken-umschau.de
 utiq.applesfera.com
 utiq.ariase.com
 utiq.ariva.de
@@ -248147,9 +248127,6 @@ yobrfvmtaqrxe.website
 yobuqokipnfaxkeor.net
 yobxluanlfwvu.space
 yobyshbpomomy.space
-yoc-adserver.com
-yoc-performance.com
-yoc.com
 yoc.younited-credit.com
 yocbiylltzzaj.website
 yoclub.waphall.com
@@ -249131,6 +249108,7 @@ z-lib.ws
 z-library.help
 z-library.live
 z-na.amazon-adsystem.com
+z-na.amazon-adsystems.com
 z-p3-rupload-ecv.net.mydays.de
 z-pro.co.kr
 z.5w1lw7z61lttzp.cyou
