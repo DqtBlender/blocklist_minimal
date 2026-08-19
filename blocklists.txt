@@ -400,6 +400,7 @@
 010chat.com
 010game.com
 010games.com
+010hh.com
 010jzjg.com
 010korea.com
 010law.com
@@ -411,7 +412,6 @@
 010pj.com
 010shopping.com
 010store.com
-010t.com
 010tv.com
 010wan.com
 011-sk.com
@@ -3015,6 +3015,7 @@
 13231323.com
 1324f.com
 1325kjw.com
+1326f.com
 1328b.com
 1328equity.com
 1328m.com
@@ -10158,6 +10159,7 @@ aax-cpm.amazon-adsystem.com
 aax-dtb-cf.amazon-adsystem.com
 aax-dtb-mobile-geo.amazon-adsystem.com
 aax-eu-retail-direct.amazon-adsystem.com
+aax-eu-rtb-adx.amazon-adsystem.com
 aax-eu-rtb.amazon-adsystem.com
 aax-eu.amazon-adsystem.com
 aax-fe-sin-rtb-adx.amazon-adsystem.com
@@ -16191,6 +16193,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20263,6 +20266,8 @@ alleviatedesignertheir.com
 alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allgalore.shop
@@ -23411,7 +23416,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -23844,6 +23848,7 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
+analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -34678,7 +34683,6 @@ bhs.sunday-usa.com
 bhs.supersmokes.ca
 bhs.superspeciosa.com
 bhs.synthesispeptides.co
-bhs.the-plug.is
 bhs.the420crew.com
 bhs.thepeppen.com
 bhs.thesrproject.com
@@ -41690,7 +41694,6 @@ cawadversityinheritance.com
 cawfwcxxaacdg.site
 cawsg.com
 caxtsk.russoraffaele.it
-caydoeuzvh.com
 cayot.ir
 cayugascorded.cyou
 cayugasterminfoundry.qpon
@@ -89760,6 +89763,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98901,6 +98905,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -100520,7 +100525,6 @@ images.groupcommunications.royalmail.com
 images.h.analog.com
 images.health.hendricks.org
 images.health.stlukes-stl.com
-images.healthlink.rsfh.com
 images.hitwise.co.uk
 images.hlipublishing.com
 images.holtcat.com
@@ -100617,6 +100621,7 @@ images.learn.follett.com
 images.learn.hitachiconsulting.com
 images.learn.internationalsosfoundation.org
 images.learn.pharmacyclics.com
+images.learn.queenslibrary.org
 images.learn.shredit.com
 images.learn.unisourceworldwide.com
 images.learn.vmware.com
@@ -115785,7 +115790,6 @@ load.data.camperboards.de
 load.data.carma.ch
 load.data.cavort.de
 load.data.cendanadental.com
-load.data.coastangels.co.uk
 load.data.collideascope.co
 load.data.coquedirect.fr
 load.data.cre8or.ai
@@ -121579,6 +121583,7 @@ login.xmlmonetize.com
 login.xmlorbit.com
 loginaccount6.wixsite.com
 logingenerosity.com
+loginiiportal.com
 loginrubbishobey.com
 loginside.co.kr
 logisticamaciel.pe
@@ -123599,6 +123604,7 @@ m.benaughty.com
 m.bets10-guveniliadres.com
 m.big-media.co
 m.bijbelgenootschap.nl
+m.bingads.microsoft.com
 m.biqu7.cc
 m.biquge5200.cc
 m.bolo2vas22.click
@@ -127270,7 +127276,6 @@ mazu-hk.3g.qq.com
 mazu.3g.qq.com
 mazu.m.qq.com
 mazu.sec.miui.com
-mazy201cu.xyz
 mb-edge.marmerbutik.com
 mb-npltfpro.com
 mb-srv.com
@@ -140633,7 +140638,6 @@ noisilyinstantly.com
 noisium.com
 noisy-anger.com
 noisy-cake.com
-noisy-pitch.pro
 noisycourt.pro
 nojazz.eu
 nojma.1800flowers.com
@@ -152015,7 +152019,6 @@ peppermintthorpeguess.com
 pepperrun.com
 pepperseeds.eu
 peppersurrogatecomparison.com
-peppery-dance.pro
 pepperyconvenience.com
 peppy2lon1g1stalk.com
 pepsia.com
@@ -155472,6 +155475,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -180589,6 +180593,7 @@ sfsrch.com
 sftapi.com
 sftelemetry.sophos.com
 sftfanfxqjiso.website
+sftp.criteo.com
 sftqh.ascentixil.com
 sftrack.searchforce.net
 sftyxvamhhblp.space
@@ -185349,7 +185354,6 @@ skeeping.com
 skeesisoxime.com
 skeetads.com
 skeinedresiantpumelos.cfd
-skeletalindustry.pro
 skeletalstreet.com
 skeletonbanal.com
 skeletonlibrarian.com
@@ -189448,6 +189452,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198363,6 +198368,7 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -209200,7 +209206,6 @@ stats.konfou.xyz
 stats.krauss-gmbh.com
 stats.kroger.com
 stats.ksearchnet.com
-stats.ksiegoboty.pl
 stats.ksmets.be
 stats.ksr.onl
 stats.kwanok.me
@@ -211556,6 +211561,7 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
+suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -246858,7 +246864,6 @@ xxxmatch.com
 xxxmms3.watch
 xxxmyself.com
 xxxoh.com
-xxxpics4you.com
 xxxskrftgrexg.online
 xxxssv.jeulia.com
 xxxtraffic.biz
