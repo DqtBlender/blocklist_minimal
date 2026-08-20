@@ -20266,6 +20266,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -23409,6 +23410,7 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -47630,6 +47632,8 @@ collect.hajwax.hu
 collect.hanwoospot.com
 collect.havilavoyages.com
 collect.healthierhomes.com
+collect.helsana-preprod.ch
+collect.helsana.ch
 collect.hollisterco.com
 collect.humac.dk
 collect.icrjournal.com
@@ -82848,7 +82852,6 @@ gds.reuseit.de
 gds.reuseit.se
 gds.sngruppen.se
 gds.strainlabs.com
-gdsbzmewiwid.com
 gdsfkwghjspep.site
 gdsngr.chainreactioncycles.com
 gdsns1.mmstat.com
@@ -84445,6 +84448,7 @@ gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
+gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -89687,7 +89691,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -91067,7 +91070,6 @@ gtm.nostalgia.retrobox.app.br
 gtm.notarypro.ca
 gtm.notazz.com
 gtm.novadigy.com
-gtm.novaiflex.com.br
 gtm.novakute.com
 gtm.novavisaooftalmo.com.br
 gtm.novayorkevoce.com
@@ -108469,6 +108471,7 @@ k1wlwifceil7rwcb19rqk5jgk9j7b3.cfd
 k203.adn.com
 k22svnk2.xyz
 k266d5zsl.onet.pl
+k287dr.lol
 k2bividyt.com
 k2n0f.cn
 k2oez6.om7jm29izqk8wtfp2uzgiecxe2o.cyou
@@ -129778,7 +129781,6 @@ metrics.cleverappssg.com
 metrics.client-eng.a2z.com
 metrics.climatesmartfoodsummit.com
 metrics.clinicoffers.co.uk
-metrics.clonexstudio.com
 metrics.cloud.tyk.io
 metrics.cloudera.com
 metrics.cloudflarebolt.com
@@ -134360,7 +134362,6 @@ mobadoo.g2afse.com
 mobads-logs.baidu.com
 mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
-mobadvent.com
 mobagent.com
 mobalives.com
 mobaliyun.res.mgtv.com
@@ -145291,6 +145292,7 @@ offensiveparkedangela.com
 offensivepractice.com
 offer-api.adgem.com
 offer-api.nextadgem.com
+offer-extensions.com
 offer-go.com
 offer.17bullets.com
 offer.alibaba.com
@@ -170955,6 +170957,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -198091,7 +198094,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -211268,7 +211270,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -215569,6 +215570,8 @@ target.groupama.fr
 target.gsghukuk.com
 target.hacetegalicia.bancogalicia.com.ar
 target.healthengine.com.au
+target.helsana-integration.ch
+target.helsana.ch
 target.hidabroot.org
 target.holcimelevate.com
 target.hq.pwc.com
@@ -220187,7 +220190,6 @@ topoads.ru
 topodat.info
 topofblogs.com
 topofthehill.brynje.no
-topographyupdates.com
 toponad.com
 toponad.net
 toponadss.com
@@ -248051,6 +248053,7 @@ youthfulpoem.pro
 youthybooting.cyou
 youtrack.ops.connatix.com
 youtuba.com
+youtubee.biz
 youtubei.youtube.com
 youtubekids.tv
 youtubepre.com
