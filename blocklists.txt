@@ -10936,7 +10936,6 @@ access.ly
 access.rottne.com
 access.vidox.net
 accessaccent.com
-accessi.it
 accessibledialoguethen.com
 accessibleweb.com
 accessintel.com
@@ -14785,7 +14784,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -17169,6 +17167,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
 advbroker.ru
@@ -23410,7 +23409,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -27517,6 +27515,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27659,7 +27658,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28737,7 +28735,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -48164,7 +48161,6 @@ colourmingle.com
 colourrobot.com
 coloursdentfolk.com
 colpwoofell.qpon
-colsonslandscaping.com
 colterstrisect.com
 coltlimb.com
 columbiahealthcaredatabreach.e.epiqnotification.com
@@ -51916,7 +51912,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -55432,6 +55427,7 @@ da-ads.com
 da-bank.com.co
 da-cdn.amazon-adsystem.com
 da-stats.sladewatkins.net
+da-tracking.com
 da.965.de
 da.aleya-aesthetics.de
 da.anythinktech.com
@@ -74917,7 +74913,6 @@ exodygrafter.qpon
 exofrwe.com
 exogampeplos.com
 exoletetumboa.shop
-exonews.ru
 exoniantignumpayably.qpon
 exosrv.com
 exotic-wax.surge.sh
@@ -75847,13 +75842,16 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
+falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
+falcopartners.com
 falcopeacing.com
+falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -78108,7 +78106,6 @@ firingperishepidemic.com
 firm-spiritual.pro
 firm-twist.com
 firmgossipy.com
-firmimprovement.pro
 firmlyconclusivespecialize.com
 firmlyflowingmoth.fit
 firmsepacme.com
@@ -80401,6 +80398,7 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
+freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84761,6 +84759,7 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
+globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -92360,7 +92359,6 @@ gtm.thestore.org
 gtm.thesuperweekender.com
 gtm.theupkeep.com
 gtm.thevantagegroupauto.com
-gtm.thevintagearcade.com
 gtm.thewafflehouse.com.co
 gtm.thewhittydesigns.com
 gtm.thewoodenbedcompany.com
@@ -98863,6 +98861,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -126753,6 +126752,7 @@ materialmilk.com
 materialparcel.com
 mateti.net
 mathads.com
+mathcountryside.com
 mathematics34.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
@@ -128267,6 +128267,7 @@ mediafirex.icu
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -201988,6 +201989,7 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
+sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -203656,7 +203658,6 @@ st.alneingloat.com
 st.amaefestival.com.br
 st.anthill.vn
 st.appsad.cn
-st.arbalostously.com
 st.argoshome.bg
 st.asiaxbit.com
 st.astraone.io
@@ -211051,6 +211052,7 @@ sub.siddhiyoga.com
 sub.snoomi.de
 sub.snusmart.com
 sub.spicyraju.com
+sub.studio-fragment.com
 sub.stylecartel.wuaze.com
 sub.takeoffcph.dk
 sub.taxisautolux.be
@@ -211339,7 +211341,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -214735,6 +214736,7 @@ tagging.numafa.com
 tagging.o2.fr
 tagging.oceansideseafood.com
 tagging.omix.nl
+tagging.on-route.nl
 tagging.paintedforever.com
 tagging.plissehordeurenwebshop.nl
 tagging.poederbaas.com
@@ -216842,7 +216844,6 @@ telegraf.detmir-stats.ru
 telegrambotsolution.pages.dev
 telegramdisposedjaws.com
 telegramhcn.com
-telegramm.site
 telegramspun.com
 telegramtf.com
 telegramvb.com
@@ -223964,7 +223965,6 @@ tracking.dantri.com.vn
 tracking.darksecretcosmetics.com
 tracking.data.strchf.com
 tracking.dataprobe.com
-tracking.dealeranalytics.com
 tracking.deepsearch.adlucent.com
 tracking.dentalclinicglendale.com
 tracking.dermage.com.ec
@@ -228070,7 +228070,6 @@ tveyut.justaway.com
 tvfeel.cc
 tvfli.stripeandstare.com
 tvfvxr.icu
-tvgc.thevintagearcade.com
 tvgjgmnnumqmf.online
 tvgpueilyophl.space
 tvguru-lp.olympuswaymarketing.com
@@ -230675,7 +230674,6 @@ unwrapsstow.cyou
 unwritmirific.com
 unwritten-gas.pro
 unwritten-indication.pro
-unwritten-population.pro
 unwrittencrazy.com
 unwrittencut.pro
 unwrittenfront.com
