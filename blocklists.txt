@@ -1075,6 +1075,7 @@
 0597qc.com
 05a.com
 05b9daf35c.com
+05block.com
 05e76a16b8.5e3d5f480f.com
 05et.biz
 05et.net
@@ -14570,7 +14571,6 @@ ads.adnods.com
 ads.adnuntius.delivery
 ads.adoffice.11st.co.kr
 ads.adpone.com
-ads.adred.de
 ads.adretriever.com
 ads.adservme.com
 ads.adsmartx.com
@@ -14787,6 +14787,7 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
+ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -17024,7 +17025,6 @@ adultpics.wiki
 adultpornosex.net
 adultsclips.com
 adultsense.com
-adultsense.info
 adultsense.net
 adultsense.org
 adultsjuniorfling.com
@@ -20353,7 +20353,6 @@ allsporthealthandfitness.com
 allsports-live.com
 allsports4free.live
 allsports4free.online
-allsportsflix.best
 allsportsflix.xyz
 allsporttv.com
 allsprang.com
@@ -22341,6 +22340,7 @@ analytics.folloze.com
 analytics.fontanka.ru
 analytics.fontstruct.com
 analytics.foodanddrinkstyling.com
+analytics.football360.ir
 analytics.for.sap
 analytics.foresee.com
 analytics.formassembly.com
@@ -23414,7 +23414,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -24149,7 +24148,7 @@ ancqie.finanztrends.info
 ancvipba.com
 ancykwplparfu.website
 ancznewozw.com
-and-ads.pulse.weatherbug.net
+and-ads.pulse.weatherbug.u3i0t165w2.cloudfront.net
 and.co.uk
 andadv.com
 andaike.com
@@ -27523,7 +27522,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27666,6 +27664,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28745,6 +28744,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -42893,7 +42893,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -44664,6 +44663,7 @@ chvfszwf.ladestander.io
 chvfszwf.pricebook.site
 chvfszwf.tilbudstorvet.dk
 chvfszwf.xn--strmfinner-2cb.no
+chvvodcmsds.adred.de
 chwyt1hzb.com
 chxfqemkekb.com
 chxlphs.com
@@ -47540,7 +47540,6 @@ collect-us.hik-partner.com
 collect-v6.51.la
 collect.4gtv.tv
 collect.abercrombie.com
-collect.adhacker.online
 collect.adplogger.no
 collect.adsorb.com
 collect.aerjournal.com
@@ -49596,7 +49595,6 @@ contriveddisparage.com
 contrivedsubsist.com
 contrivenus.com
 control-zoo-azkaban.tvinteractive.tv
-control-zoo-default.tvinteractive.tv
 control-zoo-dtsprod.tvinteractive.tv
 control-zoo-dtsstage.tvinteractive.tv
 control.adap.tv
@@ -61938,7 +61936,6 @@ decentvoice.pro
 deceptionhastyejection.com
 deceptiveamplehowl.com
 deceptivegipsyburka.com
-decibelads.com
 decibelinsight.com
 decibelinsight.net
 decidata.tv
@@ -65183,6 +65180,7 @@ dn3y71tq7jf07.cloudfront.net
 dn60bfn2vv.cfd
 dn666andut2j1.cloudfront.net
 dn6rwwtxa647p.cloudfront.net
+dn7.info
 dn7u3i0t165w2.cloudfront.net
 dn9.biz
 dn9uzzhcwc0ya.cloudfront.net
@@ -89732,6 +89730,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98853,7 +98852,6 @@ iad-04.braze.com
 iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
-iad-2-apex.go.sonobi.com
 iad-2-sync.go.sonobi.com
 iad-2-xcp.go.sonobi.com
 iad-2.go.sonobi.com
@@ -98872,7 +98870,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -99035,7 +99032,6 @@ ibrahim.laptopache.com
 ibrahim.onlinehutbd.com
 ibrapush.com
 ibryte.com
-ibspcojofkbyy.com
 ibsvex339o.cfd
 ibtmla.discovery-expedition.com
 ibuitslqcmpael.com
@@ -124017,7 +124013,6 @@ magicislandwalk.com
 magicminibox.com
 magicmountainview.com
 magicpayrecharge.com
-magicplayer-api.torrentstream.org
 magicplayer-s.acestream.net
 magicplayer-s.torrentstream.org
 magicslimnhatban.com
@@ -155350,7 +155345,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -157409,7 +157403,6 @@ proxy-eu.posthog.com
 proxy-skadnetwork.apple.com
 proxy.advp.apple.com
 proxy.alphonso.tv
-proxy.batmobi.net
 proxy.dzeio.com
 proxy.feed.hellominds.ai
 proxy.optoutadserving.com
@@ -163131,7 +163124,6 @@ r5---sn-ab5sznld.c.2mdn.net
 r5---sn-ab5sznly.c.2mdn.net
 r5---sn-ab5sznz6.c.2mdn.net
 r5---sn-ab5sznzr.c.2mdn.net
-r5---sn-ab5sznzs.c.2mdn.net
 r5---sn-ab5sznzy.c.2mdn.net
 r5---sn-aigl6n6s.c.2mdn.net
 r5---sn-aigl6ner.c.2mdn.net
@@ -189284,6 +189276,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -210843,6 +210836,7 @@ studads.com
 student-finance-auth.firebaseapp.com
 student.drphiliptisdall.com
 studentbackr.com
+studentki-sex.life
 studiedblackcurrantspectacles.com
 studiedroven.cyou
 studio-blender.com
@@ -212421,6 +212415,7 @@ sweetnessnewest.com
 sweetnessspeaksintimidate.com
 sweetpacks.com
 sweetsandswipes.com
+sweetslope.com
 sweetsoul.net
 sweetstudents.com
 sweettoothbags.com
@@ -240840,6 +240835,7 @@ wowgwmezvkuav.site
 wowlink.ru
 wowlnk.com
 wowmoscow.ru
+wowo.host
 wowow.com
 wowpornlist.xyz
 wowrapidly.com
@@ -241654,7 +241650,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
