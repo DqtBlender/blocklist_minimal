@@ -7256,6 +7256,7 @@
 8e1fb7aeb7.com
 8e296d5096.com
 8e484af735.com
+8e6c021d8f.com
 8ea1272194.com
 8eabd9b030.com
 8ecc2aee4f.com
@@ -23835,7 +23836,6 @@ analytics.webanalytics.op.europa.eu
 analytics.webflow.com
 analytics.webfokus.no
 analytics.webgains.io
-analytics.webproxy.idc.chinamobile.com
 analytics.webpushr.com
 analytics.websolute.it
 analytics.webynize.com
@@ -27652,7 +27652,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28733,6 +28732,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -38728,7 +38728,6 @@ buttery-cause.com
 buttery-sick.com
 butteryamount.pro
 butteryboy.pro
-butterysteal.pro
 buttledarainsgleary.cfd
 buttocks33.com
 button-call.zalo.me
@@ -40772,6 +40771,7 @@ capi.valhallaindicator.com
 capi.valhallaindicators.com
 capi.vatconsbd.com
 capi.vaxon.site
+capi.virtualponno.shop
 capi.vivacleanhouse.co.uk
 capi.voyaro.co
 capi.wildgooseescapes.com
@@ -42879,6 +42879,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -46969,6 +46970,7 @@ cmvrclicks000.com
 cmw.mybluehost.me
 cmxfbwwuwdyjq.site
 cmzaly.gebrueder-goetz.de
+cmzdm.com
 cmzno.fabtab.com
 cn-api.mcsvc.samsung.com.cn
 cn-go.experian.com
@@ -51924,6 +51926,7 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
+csengb.manfredijewels.com
 csep.app
 csf.uzone.id
 csfijhywqxquh.space
@@ -67460,6 +67463,7 @@ duohongmenkong.cn
 duokehaowu.com
 duologinsupersdk.ewan.cn
 duomai.com
+duomic.cc
 duop.safetygenius.co.nz
 duopodbanshee.cfd
 duotonebusaos.qpon
@@ -75866,16 +75870,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80420,7 +80421,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84767,7 +84767,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -85894,7 +85893,6 @@ goasst.guidedoutdooradventures.co.uk
 goat.dabric.xyz
 goat.dheinemann.com
 goat.fpmelb.org
-goat.gavv.in
 goat.invisibledragonltd.com
 goat.kunalslab.com
 goat.lymedocs.com
@@ -98875,6 +98873,7 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
+iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -105775,7 +105774,6 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -118075,7 +118073,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -141761,7 +141758,6 @@ nuxp9z1wl15ve2.rest
 nuxuwhawo.com
 nuyibu.pieper.de
 nuyujp.barstoolsports.com
-nuzbyampvfdsss.com
 nuzostgcylun.com
 nv-ad.24hstatic.com
 nv.fascparbate.com
@@ -155392,6 +155388,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -159849,6 +159846,7 @@ qitkpdaoujpxu.space
 qituduwios.com
 qiu.mybluehost.me
 qiujntgyhbgog.website
+qiumiba.cn
 qiusaimao.com
 qiushuangxs.com
 qiv532lr6.com
@@ -160220,6 +160218,7 @@ qpqtdv.royalbathrooms.co.uk
 qprfs.drunkelephant.com
 qprod2.net
 qprskl.com
+qps.cint.com
 qpsbd.lksneakers.com.br
 qpscgpmcrakpd.site
 qptfdtjasvzmb.site
@@ -161355,7 +161354,6 @@ r1---sn-4wg7lne6.c.2mdn.net
 r1---sn-4wg7lnee.c.2mdn.net
 r1---sn-5goeenes.c.2mdn.net
 r1---sn-5goeenez.c.2mdn.net
-r1---sn-5hne6nzd.c.2mdn.net
 r1---sn-5uaezn67.c.2mdn.net
 r1---sn-5uaezn6l.c.2mdn.net
 r1---sn-5uaezn6s.c.2mdn.net
@@ -161503,7 +161501,6 @@ r1---sn-bg0s7n76.c.2mdn.net
 r1---sn-bg0s7n7d.c.2mdn.net
 r1---sn-bg0s7n7k.c.2mdn.net
 r1---sn-bg0s7n7l.c.2mdn.net
-r1---sn-bg0s7n7s.c.2mdn.net
 r1---sn-bg0s7nld.c.2mdn.net
 r1---sn-bg0s7ns6.c.2mdn.net
 r1---sn-bg0s7nse.c.2mdn.net
@@ -161785,7 +161782,6 @@ r2---sn-4g5lzner.c.2mdn.net
 r2---sn-4wg7lnee.c.2mdn.net
 r2---sn-5goeenes.c.2mdn.net
 r2---sn-5goeenez.c.2mdn.net
-r2---sn-5hne6nzd.c.2mdn.net
 r2---sn-5uaezn67.c.2mdn.net
 r2---sn-5uaezn6l.c.2mdn.net
 r2---sn-5uaezn6s.c.2mdn.net
@@ -161814,7 +161810,6 @@ r2---sn-5ualdnzd.c.2mdn.net
 r2---sn-5ualdnzk.c.2mdn.net
 r2---sn-5ualdnzl.c.2mdn.net
 r2---sn-5ualdnzs.c.2mdn.net
-r2---sn-9gv76n7z.c.2mdn.net
 r2---sn-9gv7dn7l.c.2mdn.net
 r2---sn-9gv7enly.c.2mdn.net
 r2---sn-9gv7ens7.c.2mdn.net
@@ -162035,7 +162030,6 @@ r2---sn-q4fl6nlz.c.2mdn.net
 r2---sn-q4fl6ns7.c.2mdn.net
 r2---sn-q4fl6nsk.c.2mdn.net
 r2---sn-q4fl6nsl.c.2mdn.net
-r2---sn-q4fl6nsr.c.2mdn.net
 r2---sn-q4fl6nss.c.2mdn.net
 r2---sn-q4fl6nsy.c.2mdn.net
 r2---sn-q4fl6nz6.c.2mdn.net
@@ -162370,7 +162364,6 @@ r3---sn-bg0s7n7d.c.2mdn.net
 r3---sn-bg0s7n7k.c.2mdn.net
 r3---sn-bg0s7n7l.c.2mdn.net
 r3---sn-bg0s7n7r.c.2mdn.net
-r3---sn-bg0s7n7s.c.2mdn.net
 r3---sn-bg0s7nld.c.2mdn.net
 r3---sn-bg0s7nlk.c.2mdn.net
 r3---sn-bg0s7nls.c.2mdn.net
@@ -162432,7 +162425,6 @@ r3---sn-ntqe6nez.c.2mdn.net
 r3---sn-nv47lns7.c.2mdn.net
 r3---sn-nv47lnsk.c.2mdn.net
 r3---sn-nx57ynsk.c.2mdn.net
-r3---sn-nx57ynsl.c.2mdn.net
 r3---sn-nx57ynsy.c.2mdn.net
 r3---sn-nx57ynze.c.2mdn.net
 r3---sn-o097znsd.c.2mdn.net
@@ -162468,7 +162460,6 @@ r3---sn-p5qs7n6d.c.2mdn.net
 r3---sn-p5qs7n6y.c.2mdn.net
 r3---sn-p5qs7nd7.c.2mdn.net
 r3---sn-p5qs7nsk.c.2mdn.net
-r3---sn-p5qs7nzk.c.2mdn.net
 r3---sn-p5qs7nzr.c.2mdn.net
 r3---sn-p5qs7nzy.c.2mdn.net
 r3---sn-q4fl6n66.c.2mdn.net
@@ -162485,7 +162476,6 @@ r3---sn-q4fl6ndz.c.2mdn.net
 r3---sn-q4fl6nlz.c.2mdn.net
 r3---sn-q4fl6ns7.c.2mdn.net
 r3---sn-q4fl6nsl.c.2mdn.net
-r3---sn-q4fl6nsr.c.2mdn.net
 r3---sn-q4fl6nss.c.2mdn.net
 r3---sn-q4fl6nsy.c.2mdn.net
 r3---sn-q4fl6nz6.c.2mdn.net
@@ -162809,7 +162799,6 @@ r4---sn-bg0s7n76.c.2mdn.net
 r4---sn-bg0s7n7k.c.2mdn.net
 r4---sn-bg0s7n7l.c.2mdn.net
 r4---sn-bg0s7n7r.c.2mdn.net
-r4---sn-bg0s7n7s.c.2mdn.net
 r4---sn-bg0s7nld.c.2mdn.net
 r4---sn-bg0s7nly.c.2mdn.net
 r4---sn-bg0s7ns6.c.2mdn.net
@@ -162925,7 +162914,6 @@ r4---sn-q4fl6nlz.c.2mdn.net
 r4---sn-q4fl6ns7.c.2mdn.net
 r4---sn-q4fl6nsk.c.2mdn.net
 r4---sn-q4fl6nsl.c.2mdn.net
-r4---sn-q4fl6nsr.c.2mdn.net
 r4---sn-q4fl6nsy.c.2mdn.net
 r4---sn-q4fl6nz6.c.2mdn.net
 r4---sn-q4fl6nz7.c.2mdn.net
@@ -163328,7 +163316,6 @@ r5---sn-p5qs7n6d.c.2mdn.net
 r5---sn-p5qs7n6y.c.2mdn.net
 r5---sn-p5qs7nd7.c.2mdn.net
 r5---sn-p5qs7nsk.c.2mdn.net
-r5---sn-p5qs7nzk.c.2mdn.net
 r5---sn-p5qs7nzr.c.2mdn.net
 r5---sn-p5qs7nzy.c.2mdn.net
 r5---sn-q4fl6n66.c.2mdn.net
@@ -163344,7 +163331,6 @@ r5---sn-q4fl6nlz.c.2mdn.net
 r5---sn-q4fl6ns7.c.2mdn.net
 r5---sn-q4fl6nsk.c.2mdn.net
 r5---sn-q4fl6nsl.c.2mdn.net
-r5---sn-q4fl6nsr.c.2mdn.net
 r5---sn-q4fl6nss.c.2mdn.net
 r5---sn-q4fl6nsy.c.2mdn.net
 r5---sn-q4fl6nz7.c.2mdn.net
@@ -176842,7 +176828,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -179028,7 +179013,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -184152,7 +184136,6 @@ shortlyamusement.com
 shortprinciple.pro
 shortterm-result.com
 shorttermlocation.com
-shorttermsafety.pro
 shorttermwarmup.com
 shorturl.fm
 shoshyhewy.com
@@ -184174,7 +184157,6 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -184578,7 +184560,6 @@ silkieawk.cyou
 silklanguish.com
 silkmanthanksdobson.qpon
 silkroad.csdn.net
-silkroadweb.com
 silkworm.boxmood.be
 silkworm.margrietprinssen.nl
 silkworm.preventingsuicideinsussex.org
@@ -190932,7 +190913,6 @@ sn-hpa7zn6z.c.2mdn.net
 sn-hpa7zns6.c.2mdn.net
 sn-n4v7snee.c.2mdn.net
 sn-n4v7sney.c.2mdn.net
-sn-n4v7snll.c.2mdn.net
 sn-n4v7snlr.c.2mdn.net
 sn-n4v7snls.c.2mdn.net
 sn-n4v7snly.c.2mdn.net
@@ -198268,7 +198248,6 @@ sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -202084,7 +202063,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -207328,7 +207306,6 @@ stapetest2.staging.paylogic.com
 stapetest3.staging.paylogic.com
 stapetrack.mistyricardo.com
 stapetrk.acquadesigngroup.it
-stapetropi.hangar39.com.br
 stapeusd.yourh.com.br
 stapevox2you.mktdrops.com
 staple.metodointento.com.br
@@ -231696,6 +231673,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -232442,7 +232420,6 @@ utp.ucweb.com
 utpaqp.edu.pe
 utppooxusnnzr.online
 utqfh.dermdude.com
-utqoavwu.com
 utqsamjgxtrhv.website
 utrabixfwlgyq.site
 utrack.hexun.com
@@ -241220,7 +241197,6 @@ wrxdsplmtfwzp.space
 wrxixuknpvjxm.website
 wrxuuw.delivery
 wry-boss.com
-wry-kiss.pro
 wrysrtitoqbgn.online
 wrztsf.dasique.co.kr
 ws-analytics.sogei.it
@@ -241764,7 +241740,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -244423,7 +244398,6 @@ xfobuc.serenaandlily.com
 xfokackirkum.com
 xforce-cracks.com
 xfqiwwdxryuvo.website
-xfqvroqnu.com
 xfrguohlskkmq.site
 xfslhh.visureinrete.it
 xfsyuigochwnt.space
