@@ -1742,6 +1742,7 @@
 1-sefon.pro
 1-up.fun
 1-up.me
+1-winbet.com
 1-ws.com
 1-yo.com
 1-you.njalla.no
@@ -3928,6 +3929,7 @@
 1m72cfole.de
 1m9o22qt9lx-sdk.rum.aliyuncs.com
 1mb71rr5oo.com
+1medicine.org
 1mi.net
 1mj.xyz
 1mlnlks.com
@@ -4464,7 +4466,6 @@
 266o97nhwfw3nt.rest
 267700.com
 26e8841da4.com
-26hnt7x.mom
 26io4qnxz.com
 26q4nn691.de
 26rb.com
@@ -7343,7 +7344,6 @@
 8x2658x.com
 8x5vviy4r2.com
 8x919j7l2l.com
-8xq87m.lol
 8xvp9g.com
 8xx0n8.com
 8xykxu7.jfgrpuy5f326nlcovcg.cyou
@@ -16182,7 +16182,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -18642,7 +18641,6 @@ afzph.myarthaus.com
 ag.divcom.com
 ag.gbc.criteo.com
 ag.innovid.com
-ag.run
 ag1.zuszw.com
 ag33.cc
 agaarvusbarpp.space
@@ -20253,7 +20251,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -27652,7 +27649,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28732,7 +28728,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -42879,6 +42874,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -65294,6 +65290,7 @@ dnset.com
 dnspy.org
 dnsscan.shadowserver.org
 dnt-userreport.com
+dntds.shop
 dnuhjo.proworldinc.com
 dnuit.makefoodsimplebook.com
 dnus40re.xyz
@@ -72463,6 +72460,7 @@ ep10.online
 ep2.adtrafficquality.google
 ep2x3kiawg-sdk.rum.aliyuncs.com
 ep3.adtrafficquality.google
+epaaab.com
 epac.to
 epacash.com
 epaej.cortazu.com
@@ -86933,7 +86931,6 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
-grhgq.printique.com
 grht.perchemtl.com
 gribeorlneka.net
 grid-bidder.criteo.com
@@ -89723,7 +89720,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98720,6 +98716,7 @@ i.pokernews.com
 i.popincdn.com
 i.posthog.com
 i.realclick.vn
+i.redi-ana.jp
 i.sahcdn.com
 i.scriptovore.com
 i.seznam.cz
@@ -124675,6 +124672,7 @@ mapssufeism.com
 mapvaa.reloj.es
 maqtaerditpoz.site
 maquiags.com
+mar.englishkaku.com
 mar.vip.com
 maracaajaja.cfd
 maragedperiapt.qpon
@@ -155364,7 +155362,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -176472,7 +176469,6 @@ server.advisi.com.br
 server.advogadamaryannacontratos.com.br
 server.advogadopro.adv.br
 server.advogadosoliveira.com.br
-server.advogadosposicionados.com.br
 server.advprofviniciusmelo.com.br
 server.adwort.de
 server.aecmateriais.com.br
@@ -189326,6 +189322,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198235,6 +198232,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -212472,7 +212470,6 @@ sweetnessnewest.com
 sweetnessspeaksintimidate.com
 sweetpacks.com
 sweetsandswipes.com
-sweetslope.com
 sweetsoul.net
 sweetstudents.com
 sweettoothbags.com
@@ -216560,6 +216557,7 @@ tdslinetraffic.com
 tdsrilqk.dublin-chiropractic.com
 tdsrmbl.net
 tdstats.com
+tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtc.shop
 tdtfga.healingpinesrecovery.com
@@ -239406,6 +239404,8 @@ whitelabel.media.net
 whiteline.mail.ru
 whitelist-memefi.com
 whitelist.eu
+whitellllshop.icu
+whitelllshop.icu
 whitemagic.jp
 whitening76.top
 whitenoise.cn
@@ -241717,6 +241717,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
