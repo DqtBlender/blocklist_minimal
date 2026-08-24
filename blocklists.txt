@@ -7248,6 +7248,7 @@
 8d4755add2.com
 8dafda749d.com
 8df0c9a696.com
+8digits.com
 8e1fb7aeb7.com
 8e296d5096.com
 8e484af735.com
@@ -16167,6 +16168,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -19113,6 +19115,7 @@ aicontents.net
 aicpa.demdex.net
 aid-ad.jp
 aid.send.microad.jp
+aid10.top
 aidata.io
 aidbp.ca
 aidc.barcodesgroup.com
@@ -20244,8 +20247,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -20399,7 +20400,6 @@ alnaddy.com
 alnathmeetly.com
 alngdwetstglj.site
 alnhfq9ov4.com
-alnokhba-labs.com
 alnop.skidznyc.com
 alnurswyejuzu.website
 alnusonmun.cfd
@@ -21461,6 +21461,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23390,7 +23391,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -26757,7 +26757,6 @@ apiserver.renanferreiragtr.com.br
 apiserver.salesclub.com.br
 apiserver.tmb.com.br
 apiserver.vanessagodoifisioterapeuta.com.br
-apiserver.youseller.com.br
 apiservices.krxd.net
 apishopers.com
 apishow.babybus.com
@@ -27500,7 +27499,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -27642,7 +27640,6 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -28729,6 +28726,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -40659,7 +40657,6 @@ capi.mrbazar.com.bd
 capi.mrmstore.com
 capi.namestories.co.uk
 capi.naturalbangladesh.com.bd
-capi.naturalsbyrakhi.com
 capi.naturalsefa.com
 capi.naturalsmiles.co.uk
 capi.neembaayurvedic.com
@@ -44283,7 +44280,6 @@ chestionar.ro
 chetchoa.com
 chethgentman.live
 chethsbit.cfd
-chetopenimette.com
 chevronlubricants.demdex.net
 chevy-clan.ru
 chewinglatinus.cyou
@@ -66034,7 +66030,6 @@ dpndczlul8yjf.cloudfront.net
 dpnfbrdgvurtl.space
 dpnknkozlmyqf.space
 dpns-notifications.com
-dpojndcq.com
 dpokcoilmfmje.website
 dpovcw.the-body-shop.co.jp
 dpp.mybluehost.me
@@ -75911,16 +75906,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80462,7 +80454,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84804,7 +84795,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -89765,6 +89755,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98910,7 +98901,6 @@ iadctest.qwapi.com
 iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -105815,7 +105805,6 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -118126,7 +118115,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -132199,7 +132187,6 @@ mftdhrlywaeil.space
 mftkh.trustcache.com
 mftnsjsenkwau.online
 mfuodmpu.com
-mfvmedrqqj.com
 mfvoa.etrgovinca.hu
 mfvskuommxwep.online
 mfwbsveljxjsq.space
@@ -138731,7 +138718,6 @@ neoss.eslabglobal.com
 neoss.espaciosrrbienesraices.com
 neoss.falocolombia.com
 neoss.fastpavos.com
-neoss.ganaconshoppy.com
 neoss.hntrendshop.com
 neoss.hondumkt.com
 neoss.hypeimports.com
@@ -150234,7 +150220,6 @@ paraveronline.com
 parazoabeirut.cyou
 parazoamirks.com
 parbatekolkozyimblaze.qpon
-parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -155446,6 +155431,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -165045,7 +165031,6 @@ redir.goraps.com
 redir.hightid.xyz
 redir.jads.co
 redir.juicyads.com
-redir.lowtid.xyz
 redir.ownpage.fr
 redir.summerwaveadventures.com
 redir.tradedoubler.com
@@ -171133,6 +171118,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -173611,7 +173597,6 @@ scornedinseer.shop
 scornfacultative.com
 scornfularmy.pro
 scornfulleg.com
-scornfultrain.pro
 scornwhile.com
 scorpion.clare.ink
 scorpion.gamedao.co
@@ -176872,7 +176857,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -178659,6 +178643,7 @@ server.perfumelounge.co.za
 server.perfumiz.com
 server.periciamedicapro.com.br
 server.pericoco.com.br
+server.personalizandocomca.com.br
 server.petalcalyx.com
 server.petcasarao.com.br
 server.pethouse.sk
@@ -179055,7 +179040,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -183983,6 +183967,7 @@ shop.moi-et-marie.com
 shop.nabixo.com
 shop.nirvhejal.com
 shop.origani.com.au
+shop.overcompensatingtv.com
 shop.pantoneclo.com.bd
 shop.perpipy.com
 shop.pipramartbd.com
@@ -184197,7 +184182,6 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -185623,6 +185607,7 @@ slickquiver.com
 slickspikeagency.com
 slickstream.com
 slicktext.com
+slid3.com
 sliddeceived.com
 slideblast.com
 slidedeck.ojrq.net
@@ -186684,7 +186669,6 @@ smetrics.bhhscoloradorealestate.com
 smetrics.bhhscooperrealestate.com
 smetrics.bhhscp.com
 smetrics.bhhsdiscover.com
-smetrics.bhhsdrysdale.com
 smetrics.bhhsfloridakeys.com
 smetrics.bhhsfloridashowcaseproperties.com
 smetrics.bhhsfourseasonsselectproperties.com
@@ -189382,6 +189366,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -202098,7 +202083,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -211456,7 +211440,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -219784,7 +219767,6 @@ tmsnabtrade.nab.com.au
 tmssgm.gruppomade.com
 tmstag.alexlage.com.br
 tmstag.ericolanza.adv.br
-tmstag.fortelarimoveis.com.br
 tmstag.lidersign.com.br
 tmstag.paramulheres.digital
 tmstag.reservadosal.com.br
@@ -224326,6 +224308,7 @@ tracking.hannoversche.de
 tracking.happierleads.com
 tracking.happythoughtshealth.com
 tracking.hardoxwearparts.com
+tracking.harla.com.au
 tracking.hartmann-tresore.de
 tracking.hashiru.com.br
 tracking.haux.com
@@ -235894,7 +235877,6 @@ vpaid.impactify.media
 vpaid.mathtag.com
 vpaid3.adsafeprotected.com
 vpath.net
-vpbank.appvest.vn
 vpbankvn.com
 vpbez.swiglife.com
 vpbhuddvufxvb.space
@@ -250916,7 +250898,6 @@ zrzhsb.lascana.sk
 zrzrujresjuqm.space
 zrzxqjkroukgh.space
 zs.ahspinxter.com
-zs.com
 zs.cuppedajitter.com
 zs.dhl.de
 zs.eelyloun.com
