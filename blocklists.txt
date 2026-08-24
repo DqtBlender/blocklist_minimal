@@ -16171,6 +16171,7 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
+adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.xtubexxx.com
@@ -20250,6 +20251,8 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -27506,6 +27509,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -37080,7 +37084,6 @@ bovmkbuiaddbb.website
 bovverironice.qpon
 bow.mybluehost.me
 bowed-tackle.com
-bowedcounty.com
 bowelslipperypraised.com
 bowermisrule.com
 bowerscrural.cyou
@@ -42886,7 +42889,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -62111,6 +62113,7 @@ deeplyangrily.com
 deeplykeychest.com
 deepmetrix.com
 deepnewsjuly.com
+deeppquiz.ru
 deepprostore.com
 deepretainer.com
 deeprootedstranded.com
@@ -75914,16 +75917,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -79763,7 +79763,6 @@ fortune-gate-open.com
 fortune-koun.jp
 fortune-luna.com
 fortune-moon.net
-fortune-mooon.com
 fortune-yakata.com
 fortune59.com
 fortuneadvert.com
@@ -80465,7 +80464,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84808,7 +84806,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -89773,7 +89770,6 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
-gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -99724,6 +99720,7 @@ igexin.com
 igfgnaesszzpk.space
 igfhu.roarsome.com
 igfjkh.vw.com.tr
+igfollows.net
 igg-games.co
 igg.igreengadgets.it
 iggcszxljlchr.website
@@ -105823,7 +105820,6 @@ jaryfyba.com
 jas.indeednps.com
 jasaiklan.com
 jashz.crateandbarrel.com
-jasim.luxurydor.com
 jasjas.xyz
 jaskhuczzexoh.site
 jaslenshops.com
@@ -108582,6 +108578,7 @@ k1wlwifceil7rwcb19rqk5jgk9j7b3.cfd
 k203.adn.com
 k22svnk2.xyz
 k266d5zsl.onet.pl
+k287dr.lol
 k2bividyt.com
 k2n0f.cn
 k2oez6.om7jm29izqk8wtfp2uzgiecxe2o.cyou
@@ -111319,6 +111316,7 @@ kwgs.letudiant.fr
 kwhiwu.xplant.co.kr
 kwhpllmraltfm.website
 kwhrbr.hotelesglobales.com
+kwid9.apple69.top
 kwid9.metastyle.xyz
 kwid9.newbie-investors.top
 kwid9.shipai.xyz
@@ -118126,7 +118124,6 @@ load.sgtm.lymphsystemsupport.com
 load.sgtm.madebyomnis.com
 load.sgtm.maisoncashmere.com
 load.sgtm.mangopeopleofficial.com
-load.sgtm.manzeelo.com
 load.sgtm.marenauta.com
 load.sgtm.massagechairsandmore.com
 load.sgtm.maxima.bet.br
@@ -155445,6 +155442,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -164185,6 +164183,7 @@ rboyqkylqrlbk.top
 rbp-gen1.site
 rbpark1.website
 rbpksavddouil.store
+rbpsh.ru
 rbptt.com
 rbqcg6g.de
 rbqlbokqravyy.top
@@ -167285,6 +167284,7 @@ rivestimentiplastici.it
 riveter29.com
 riveter35.top
 rivierewhimsey.com
+rivne.space
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
 rixbeedesk.com
@@ -171529,7 +171529,6 @@ sa.adidas.sk
 sa.animalplanet.com
 sa.autozamavehiculoscomerciales.com
 sa.avenuesupply.ca
-sa.bbc.co.uk
 sa.chdist.com
 sa.cookingchanneltv.com
 sa.dammitstoics.com
@@ -176871,7 +176870,6 @@ server.biotekorganics.com
 server.biowell.se
 server.bipolaridadesemcaos.com
 server.birshope.com
-server.bishokollanpublications.com
 server.bivabori.shop
 server.bixus.com.br
 server.bjjmasterclass.com
@@ -179056,7 +179054,6 @@ server.sileneiole.com
 server.silldobrasil.com.br
 server.silveiraimoveis.com
 server.simantozone.com
-server.simplebazarbd.com
 server.simpleeducation.com.br
 server.simplesbrasil.com.br
 server.sinclothing.shop
@@ -182958,7 +182955,6 @@ sgtm.tabletoday.se
 sgtm.taclinic.jp
 sgtm.tagmanageritalia.it
 sgtm.tahoursa.com
-sgtm.takeaboat.com
 sgtm.takehot.com.ua
 sgtm.talkspace.com
 sgtm.tamapastel.com.br
@@ -184200,7 +184196,6 @@ shoutloud.de
 shoutsnablus.cyou
 shoutwiki.club
 shoversuersjupard.cyou
-shovon.zelonii.com
 show-api.1sapp.com
 show-creative1.com
 show-me-h0w.com
@@ -189385,6 +189380,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198285,6 +198281,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -202102,7 +202099,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -208719,7 +208715,6 @@ stats.badcode.be
 stats.baddworldwide.com
 stats.badoostats.com
 stats.bannernow.com
-stats.bbc.co.uk
 stats.bdc.ca
 stats.becu.org
 stats.bellmedia.ca
@@ -211464,7 +211459,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -214424,7 +214418,6 @@ t57u6anx2.com
 t5a64j1v4.com
 t5gp7rzz4.com
 t5tm8zptlf6o8lc.cfd
-t6.de
 t6.zcvh.net
 t6ec3seyq.com
 t7.zcvh.net
@@ -226158,6 +226151,7 @@ trex.demdex.net
 trex.media
 trex.tt.omtrdc.net
 trezor-suite.co.com
+trezor-suites.biz
 trezor.io-app.run
 trezor.la
 trezora.info
@@ -231719,7 +231713,6 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -241788,7 +241781,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -248317,6 +248309,7 @@ youthfulpoem.pro
 youthybooting.cyou
 youtrack.ops.connatix.com
 youtuba.com
+youtubee.biz
 youtubei.youtube.com
 youtubekids.tv
 youtubepre.com
