@@ -8182,7 +8182,6 @@ a.share-dns.com
 a.shemale99.com
 a.shenchuang.com
 a.shukriya90.com
-a.shutterfly.com
 a.silla.rs
 a.simonandschuster.com
 a.sj.se
@@ -13279,6 +13278,7 @@ adhslx.com
 adhub.digital
 adhub.media
 adhub.porcino-kinoko.workers.dev
+adhub.ru
 adhubly.com
 adhudg.nec-lavie.jp
 adhunt.net
@@ -14681,7 +14681,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -14717,6 +14716,7 @@ ads.cdn.bndlapi.com
 ads.cdn.rovio.com
 ads.cdn.tvb.com
 ads.cdn.viber.com
+ads.cdn2-img.net
 ads.cdnaz.win
 ads.cdnslate.com
 ads.cdrinfo.com
@@ -14752,7 +14752,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15181,7 +15180,6 @@ ads.movieweb.com
 ads.mozilla.org
 ads.mp.mydas.mobi
 ads.mp.pl
-ads.mrskin.com
 ads.msdigital.vn
 ads.msn.com
 ads.mtgroup.kr
@@ -20233,7 +20231,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -21449,7 +21446,6 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23866,6 +23862,7 @@ analytics.wolvesofanalytics.com
 analytics.wondershare.cc
 analytics.woozooo.com
 analytics.wpmucdn.com
+analytics.wrc.nic.in
 analytics.ws.bny.com
 analytics.www.essity.com
 analytics.www2.revenue.ie
@@ -28714,6 +28711,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -34658,7 +34656,6 @@ bhsxwgyuktnjz.site
 bhszasnoamoro.space
 bhtuukgrerzjmchn.com
 bhuht.stackedskincare.com
-bhus.com
 bhutkb.lucky-shop.jp
 bhv-analytics-prd-1854775698.us-east-1.elb.amazonaws.com
 bhvsoo.cpaps.com.br
@@ -35254,6 +35251,7 @@ bitcoinqrcodemaker.com
 bitcoinsports.org
 bitdefender.f9tmep.net
 bitdefender.top
+bitdefenderupdate.org
 bitdrift.io
 biteanxiously.com
 biteluxurystain.com
@@ -61965,7 +61963,6 @@ decentvoice.pro
 deceptionhastyejection.com
 deceptiveamplehowl.com
 deceptivegipsyburka.com
-decibelads.com
 decibelinsight.com
 decibelinsight.net
 decidata.tv
@@ -65352,7 +65349,6 @@ do.csmayo.com
 do.fantastindents.com
 do.jmsbonally.cyou
 do.onthe.io
-do.redbuckzincate.com
 do09.net
 do0digwedphcm.cloudfront.net
 do1dns3y1w33m.cloudfront.net
@@ -75907,16 +75903,13 @@ fal.mybluehost.me
 fal2.carrefour-banque.fr
 falabella.demdex.net
 falcesemir.cyou
-falcogames.com
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
 falcon.useinsider.com
 falcon1.net
 falconduties.shop
-falcopartners.com
 falcopeacing.com
-falcoware.com
 falgin.cn
 falhcegbmvooc.site
 falixa.com
@@ -80460,7 +80453,6 @@ freefromads.pro
 freefungames.net
 freegamefinder.com
 freegamezone.net
-freegamia.com
 freegeoip.app
 freegeoip.io
 freehitscounter.org
@@ -84802,7 +84794,6 @@ globalstats.ekmsecure.com
 globalsun.io
 globaltakeoff.net
 globalteaser.com
-globalteaser.ru
 globaltizer.ru
 globaltrack.com
 globaltraffico.com
@@ -86977,6 +86968,7 @@ grfz.de
 grgalylnihcym.space
 grgnsht.nzxt.com
 grgr.blue
+grhgq.printique.com
 grht.perchemtl.com
 gribeorlneka.net
 grid-bidder.criteo.com
@@ -89765,6 +89757,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -98879,6 +98872,7 @@ iad-05.braze.com
 iad-06.braze.com
 iad-08.braze.com
 iad-2-apex.go.sonobi.com
+iad-2-sync.go.sonobi.com
 iad-2-xcp.go.sonobi.com
 iad-2.go.sonobi.com
 iad-login.dotomi.com
@@ -121842,6 +121836,7 @@ loliummaile.cfd
 lollopybirle.com
 lolly.needforsweet.de
 loloclicks.biz
+lolostan.com
 lomadee.com
 lomhesl.studio
 lominglaes.com
@@ -137527,7 +137522,6 @@ mzgpfa.brics.it
 mzgsui.rapunzelofsweden.com
 mzgzjbqyhtfuqv.com
 mzh.mybluehost.me
-mzhqqumnm.com
 mzi.mybluehost.me
 mzidndvsmszfx.space
 mzifugnakol.com
@@ -140026,7 +140020,6 @@ nissanheliosami.tt.omtrdc.net
 nissanhelioseu.tt.omtrdc.net
 nissanheliossa.tt.omtrdc.net
 nissanjuke072018.pxf.io
-nist.com
 nitencyriginal.qpon
 nitevowho.com
 nitgurging.cfd
@@ -145961,6 +145954,7 @@ ojzpcvipynqhw.online
 ok-server.co.il
 ok.429men.com
 ok.aboardpleione.com
+ok.appnexus.com
 ok.carepayout.com
 ok.carepayout.us
 ok.carepayouts.com
@@ -155439,6 +155433,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -156294,7 +156289,6 @@ prestige-immo.net
 prestigeestimatemobile.com
 prestigemoisturerefutation.com
 prestigious-holdings.com
-prestigious-loss.pro
 prestigious-other.pro
 prestigious-weakness.com
 prestigiousarmed.com
@@ -158096,6 +158090,7 @@ publisher-event.ads.prd.ie.internal.unity3d.com
 publisher-event.unityads.unity3d.com
 publisher-network.com
 publisher.adsparc.com
+publisher.beaverads.com
 publisher.linkvertise.com
 publisher.media.net
 publisher.nextmillennium.io
@@ -159140,6 +159135,7 @@ pyrkxp.novafotograf.com
 pyrzoa.kolonnenull.com
 pysdvwrawkwjz.space
 pysfn.benchclearers.com
+pysvfggnwzzf.com
 pyt.mybluehost.me
 pythagore.demdex.net
 python.casuallyprivate.com
@@ -167238,7 +167234,6 @@ riskexcel.com
 riskid.security
 riskishrepaidroost.cyou
 riskpoc.trip.com
-risnjmyxfqaep.website
 risorsemerida.qpon
 risqusavored.shop
 risselcunning.qpon
@@ -167353,6 +167348,7 @@ rjxujpuoxmtlr.website
 rjzbvmbkemqwq.top
 rjzbvmbybvokw.top
 rjzkulworyqil.space
+rjzmq.sanctuaryaz.com
 rk.hairbilby.com
 rk.roseineragbags.com
 rk2kpo4ef.com
@@ -170004,6 +170000,7 @@ rvolkknctgbvy.site
 rvq.mybluehost.me
 rvr3psha.xyz
 rvrl1srlq.com
+rvrpushserv.com
 rvrvqzbxqtmtz.online
 rvs.mybluehost.me
 rvs.revitalizeseusganhos.com.br
@@ -171110,6 +171107,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -193768,6 +193766,7 @@ sports.bwin.com
 sports.partypoker.com
 sports777.cc
 sportsads.nl
+sportsbettingbd.com
 sportsclubstat.com
 sportsentry.ne.jp
 sportsevents365.com
@@ -198264,6 +198263,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -202077,7 +202077,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.rovostravel.com
@@ -207563,6 +207562,7 @@ stat.allfootballapp.com
 stat.alltforforaldrar.se
 stat.altalex.com
 stat.amebame.com
+stat.apfgexfusion.com
 stat.api.altium.com
 stat.aporntv.com
 stat.appioapp.com
@@ -211430,7 +211430,6 @@ suibianmaimaicom.com
 suicidalruse.com
 suicideispreventable.org
 suihayz.cfd
-suijidaohxl.top
 suitablecondemntin.com
 suitablepartner.life
 suitablyimmortalspaniel.shop
@@ -219054,7 +219053,6 @@ tj.ferrygame.com
 tj.kugou.com
 tj.qiumibao.com
 tj.video.qq.com
-tj.witessreacts.com
 tj.youzanyun.com
 tj1.youzan.com
 tj1.youzanyun.com
@@ -234037,7 +234035,6 @@ vfbbq.netrition.com
 vfbnb.barakasheabutter.com
 vfbwcfej.icu
 vfc.demdex.net
-vfcgomvwushcg.com
 vfd2dyn.vodafone.de
 vfde-fixed.mno.link
 vfde-fixed6.mno.link
@@ -241760,7 +241757,6 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
