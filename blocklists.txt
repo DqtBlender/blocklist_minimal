@@ -21446,6 +21446,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-data.io
@@ -23373,7 +23374,6 @@ analytics.sexcelebrity.net
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shmoool.net
 analytics.shop.hisense.com
@@ -27627,6 +27627,7 @@ app.wpsmail.net
 app.wsucougars.com
 app.wts2.one
 app.wvusports.com
+app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -42857,7 +42858,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -43935,7 +43935,6 @@ channelsentiment.com
 channelstreamz.com
 channelusa.samsung.com
 chaolao.com
-chaordicsystems.com
 chaosmonitor.com
 chaosovercastremake.com
 chapahshuler.cfd
@@ -45866,6 +45865,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -75234,7 +75234,6 @@ extramonies.com
 extraneedlesshoneycomb.com
 extraneous-box.com
 extraneouscrazy.pro
-extraneousstudy.pro
 extraordinarydisreputable.com
 extrapageant.shop
 extrapictures.com
@@ -84494,11 +84493,9 @@ gkykp.com
 gkzbtvtyvvktr.online
 gl-3425-track.online
 gl-adsrv.rtbsuperhub.com
-gl-product-analytics.com
 gl.cnt.my
 gl.genmonet.com
 gl.jimahegn.dk
-gl0a7loeki02do.com
 gl0r6d2uyy.com
 gla.gameloft.com
 gla3sr9r1m.com
@@ -89737,6 +89734,7 @@ gtm.gramos.com.br
 gtm.granatrack.com
 gtm.granparque.com.br
 gtm.gravitystack.ca
+gtm.graziellamoraes.com
 gtm.graziellamoraes.shop
 gtm.graziellyxavier.com.br
 gtm.graztourismus.at
@@ -101454,6 +101452,7 @@ ims3.tescogiftcards.com
 imsearch.dzh.com.cn
 imslyokecyhar.site
 imsonicgale.com
+imsowiwiwiwiwi.com
 imtolenplex.com
 imtshvsvjzeob.website
 imtwjwoasak.com
@@ -105601,7 +105600,6 @@ jacksonnationallifei.tt.omtrdc.net
 jacksonweaverphotography.com
 jacky.net.mydays.de
 jacquelinewensley.com
-jacquesvalente.com
 jacquieetmichel-contact.com
 jacquieetmichel-contacts.com
 jacsg.belaro.ro
@@ -112143,7 +112141,6 @@ laserwriter1-v2.net.anwalt.de
 laserwriter1.inner.net.anwalt.de
 lasesaboon.com
 lashfamily.com
-lashone.com
 lashpoppercuckold.qpon
 lashwithoutweather.com
 lasicka.hnutiduha.cz
@@ -138180,7 +138177,6 @@ naytev.com
 naywardilleism.cfd
 nazarickol.com
 nazcu.winc.com
-nazkiamedia.com
 naznfshwgtkyk.space
 nazrul.hashninefurniture.com.au
 nb-s.lemnisk.co
@@ -155396,6 +155392,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -163615,6 +163612,7 @@ raejvjtrqqchp.space
 raejwfqcdketq.website
 raf.postnl.nl
 raf.tripkori.com
+rafael.chaveiroemfloripa.com.br
 rafaelamessias.anunciojuridico.com.br
 rafaeldosanjos.anunciojuridico.com.br
 rafaeloticaerelojoaria.com.br
@@ -184081,7 +184079,6 @@ shopsmysteryeagerly.com
 shopsquare.naver.com
 shopsupport24x7.com
 shopt1.com
-shoptarget.com.br
 shoptastic.io
 shoptelligence.com
 shopteufunny.vn
@@ -189325,6 +189322,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -198226,7 +198224,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
@@ -231650,6 +231647,7 @@ userpanel.eroadvertising.com
 userreplay.com
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.quantumgraph.com
 users.tvinteractive.tv
@@ -239990,6 +239988,7 @@ winstar.space
 winstonplusses.cfd
 winstonsalembusinesssettlement.e.epiqnotification.com
 winsurbox.com
+wintap.io
 winter.net.penny.de
 winterdistortkey.com
 winterwin.com
