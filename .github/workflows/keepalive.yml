@@ -2,9 +2,9 @@ name: Keepalive
 
 on:
   schedule:
-    # Chạy mỗi 20 ngày một lần, 00:00 UTC (an toàn dưới ngưỡng 60 ngày)
+    # Chạy mỗi 20 ngày một lần, 00:00 UTC
     - cron: '0 0 */20 * *'
-  workflow_dispatch:   # Cho phép bấm chạy tay để test
+  workflow_dispatch:   # Cho phép bấm chạy tay
 
 jobs:
   keepalive:
@@ -16,9 +16,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Touch file to keep repo active
+      - name: Append keepalive log (reset sau 3600 dòng)
         run: |
-          date > .keepalive
+          touch .keepalive
+          LINES=$(wc -l < .keepalive)
+          if [ "$LINES" -ge 3600 ]; then
+            echo "$(date -u) [reset]" > .keepalive
+          else
+            echo "$(date -u)" >> .keepalive
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .keepalive
