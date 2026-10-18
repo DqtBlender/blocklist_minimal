@@ -96,15 +96,3 @@ jobs:
         with:
           commit_message: "chore: auto-update blocklists"
           file_pattern: 'blocklists.txt'
-  keepalive:
-    name: Keepalive (chống khóa 60 ngày)
-    runs-on: ubuntu-latest
-    permissions:
-      actions: write
-      contents: write
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Đánh dấu repo vẫn hoạt động
-        uses: gautamkrishnar/keepalive-workflow@v2
