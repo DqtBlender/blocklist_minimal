@@ -1,0 +1,26 @@
+name: Keepalive
+
+on:
+  schedule:
+    # Chạy mỗi 20 ngày một lần, 00:00 UTC (an toàn dưới ngưỡng 60 ngày)
+    - cron: '0 0 */20 * *'
+  workflow_dispatch:   # Cho phép bấm chạy tay để test
+
+jobs:
+  keepalive:
+    name: Keepalive (chống khóa 60 ngày)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Touch file to keep repo active
+        run: |
+          date > .keepalive
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .keepalive
+          git diff --cached --quiet || git commit -m "keepalive $(date +%Y-%m-%d)"
+          git push
