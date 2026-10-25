@@ -10716,7 +10716,6 @@ ads.brandcdn.com
 ads.brave.com
 ads.brazino777.bet.br
 ads.brazino777.mx
-ads.brazzers.com
 ads.bridgebase.com
 ads.brndts.com
 ads.broadsolutionsgroup.com
@@ -10786,7 +10785,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -12188,7 +12186,6 @@ adserver.virginmedia.com
 adserver.vrizead.com
 adserver.waggonerguide.com
 adserver.weblogic-studio.com
-adserver.webproxy.idc-lorien21swww.bltheluxurystorontor.mgmt.toronto.ups.com.cn
 adserver.wenxuecity.com
 adserver.wolterskluwer.pl
 adserver.yahoo.com
@@ -17205,6 +17202,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -26905,7 +26903,6 @@ b3.jandan.net
 b3.jiasudu666.com
 b3.mookie1.com
 b3.videoamp.com
-b3400dda56f2.com
 b347.pottsmerc.com
 b34fdbe934.com
 b35febe6f7.com
@@ -31230,7 +31227,6 @@ bonafides.club
 bonanza.com
 bonasacarga.cyou
 bondagefuckbook.com
-bondagestory.org
 bondagevalley.cc
 bondeddarkenedswerve.com
 bondfocusedadmirer.org
@@ -36683,6 +36679,7 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
+cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.sprysmile.com
@@ -56192,7 +56189,6 @@ dichvucong-gov.com
 dichvucong-govvn.com
 dichvucong.hgov.cc
 dichvunhantienquocte2-4-7.weebly.com
-dichvuruttien247.com
 dickies-jp.com
 dicks-sporting-goods.pxf.io
 dickssportinggoods.demdex.net
@@ -74163,7 +74159,6 @@ ghnaox.haishall.jp
 ghnl.goedhoesje.nl
 ghnoqyfqgsoof.space
 ghochv3eng.trafficmanager.net
-ghojgnahyzcyy.store
 ghoksjqoceaww.online
 ghonnz.columbiasports.co.jp
 ghoqnanthfges.site
@@ -81088,7 +81083,6 @@ gtm.posgradomed.com.br
 gtm.poshliving.eu
 gtm.postoestradao.com.br
 gtm.potagermaisonfacile.online
-gtm.potencialdesentupidorago.com.br
 gtm.poundfit.com
 gtm.pousadaaguasdealter.com.br
 gtm.pousadadasereia.com.br
@@ -86362,7 +86356,6 @@ hqvldtiayuvrho.com
 hqvrvageaf.com
 hqwtqa.intelligence-artificielle-school.com
 hqxbuy.rugs-direct.com
-hqxvhbntctxha.space
 hqyygsvapzwnv.site
 hr-communication.com
 hr-organization.com
@@ -95340,7 +95333,6 @@ jpqlqtnvbtvhx.space
 jpqnvgjnxyjdt.site
 jpqqpuglphfvt.space
 jprbql.jdsports.fr
-jprikyulkdrwt.site
 jprpf.biotrust.com
 jprtb.c.appier.net
 jprutbffhyhgi.space
@@ -101886,7 +101878,6 @@ llqmbetbgjhyt.website
 llrce.goldandhoney.com
 llrcuclntbhft.space
 llrlykvedxhxr.site
-llrmdpyqhduad.store
 lls.lumberliquidators.com
 lls11050ko.com
 lls11060ko.com
@@ -131622,7 +131613,6 @@ octectlycopin.com
 octetswales.qpon
 octillion.tv
 octo25.me
-octoberads.space
 octoclick.com
 octolinkcom.me
 octonewjs.com
@@ -134686,7 +134676,6 @@ outstandingfrailabroad.com
 outstandingtelephone.pro
 outster.com
 outstream-telemetry.wemass.com
-outstreamoctober.store
 outtasknapaea.click
 outtechnicalspiteful.com
 outvierpeteca.cyou
@@ -134884,7 +134873,6 @@ owvqpfbrrk.com
 owwbulasllttm.space
 owwqbgkedrqeh.space
 owxcmf.naire-seisakusho.jp
-owxjmqrzgzyou.site
 owxpzlhikjoyj.store
 owxsolpqxqyiy.space
 owywlwjvvkcjc.site
@@ -140375,6 +140363,7 @@ popunder.fpctraffic.com
 popunder.net
 popunder.smartcpx.com
 popunderjs.com
+popunderoctober.store
 popunderstar.com
 popunderz.com
 popup-static.unisender.com
@@ -140565,6 +140554,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -154521,6 +154511,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -157123,7 +157114,6 @@ sdc.uw.hu
 sdc.windowsmarketplace.com
 sdc01.intouchsol.net
 sdc2.credit-suisse.com
-sdcgnlnlnlayq.store
 sdcs.felissimo.co.jp
 sdd.hi1718.com
 sddan.com
@@ -167802,6 +167792,7 @@ simplesafari.com
 simplesharebuttons.com
 simplesidewalk.com
 simpleswap-exchange.com
+simpleswap.at
 simpleswap.to
 simpletexting.com
 simpletopay.americanexpress.co.uk
@@ -172315,6 +172306,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -181030,7 +181022,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privawww.santander.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -181313,7 +181305,6 @@ sst.acad-write.com
 sst.academiaclinicadragao.com
 sst.academy.elysiumjet.com
 sst.academy.thefarmlandinfo.com
-sst.academybc.jp
 sst.acadon.net
 sst.accademiaitalianachef.com
 sst.acceptance.com
@@ -199679,6 +199670,7 @@ tdsworkout.com
 tdt.dansktandforsikring.dk
 tdtexdceiujwi.site
 tdtfga.healingpinesrecovery.com
+tdum.alibaba.com
 tdusj.sportsetrvc.com
 tduzo.novalights.com.au
 tdvgmrzzkeuac.online
@@ -203330,7 +203322,6 @@ tpwdgt.com
 tpwgts.com
 tpx.everquote.com
 tpx.mybluehost.me
-tpx.tesseradigital.com
 tpxjcnvawwvbn.space
 tpxludqpybpkx.store
 tpxxgiegfobee.website
@@ -209845,7 +209836,6 @@ tsfidvbipwedg.site
 tsg-hdp-client-logger-log.ap-southeast-1.log.aliyuncs.com
 tsg-hdp-raw-log.ap-southeast-1.log.aliyuncs.com
 tsg.thesteelgallery.co.uk
-tsghvqmfcxzfn.space
 tsgys.arcteryx.com.au
 tshirt.monteleste.com
 tshirt.zyanbd.com
@@ -229272,7 +229262,6 @@ ytxpnx.shokunosoyokaze.com
 ytyeogriluczo.site
 ytymgickisewv.site
 ytzihf.com
-ytzisjouiwwsg.site
 ytzjwq.eskcare.com
 ytzsc.mermaidoffduty.com
 yu0123456.com
@@ -229764,7 +229753,6 @@ z5c4tnjw6p.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
