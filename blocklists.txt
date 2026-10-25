@@ -9803,6 +9803,7 @@ admospheres.com
 admost-banner.b-cdn.net
 admost.com
 admothreewallent.com
+admozartexchange.com
 admozartppc.com
 admozartxml.com
 admpire.com
@@ -10793,7 +10794,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -16093,6 +16093,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleymoreoverboring.com
 allfail-all.adadvisor.net
+allfail-www.all.adadvisor.net
 allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
@@ -17224,6 +17225,7 @@ analytics-cms.whitebeard.me
 analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
+analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.classlink.com
 analytics-dataplane.invideo.io
@@ -18542,7 +18544,6 @@ analytics.lego.com
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 analytics.lekumo.jp
 analytics.lemonade.com
-analytics.lemont.sg
 analytics.lenco.com
 analytics.lenco.de
 analytics.lenco.fr
@@ -23424,7 +23425,6 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
-app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -24476,6 +24476,7 @@ as-eb2.3lift.com
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -27546,6 +27547,7 @@ bannermall.com
 bannermarkt.nl
 bannernetwork.net
 bannernow.com
+banneroctober.store
 bannerpower.com
 banners-bt.wildberries.ru
 banners-gallery.coccoc.com
@@ -28119,7 +28121,6 @@ bct.beavercrafttools.com
 bct1.marketingstrategie.de
 bcthh.iliabeauty.com
 bctt.igaming-service.io
-bctuafpdwarbm.site
 bcv.mybluehost.me
 bcvc.mobi
 bcvxynjpdtrcc.space
@@ -34337,18 +34338,11 @@ candywarehouse.evergage.com
 cane.intel.cn
 cane.intel.co.jp
 cane.intel.co.kr
-cane.intel.co.uk
 cane.intel.com
 cane.intel.com.au
 cane.intel.com.br
 cane.intel.com.tr
 cane.intel.com.tw
-cane.intel.de
-cane.intel.es
-cane.intel.fr
-cane.intel.in
-cane.intel.it
-cane.intel.la
 cane.intel.pl
 canekilttantrum.com
 canellecrazy.com
@@ -39340,6 +39334,7 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
+clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -40048,7 +40043,6 @@ clownfish.philipkiely.com
 clownfish.wrestlingiq.com
 clownstrike.co.uk
 clprfkljfcmnm.site
-clprr.com
 clpx.l2l11bqg1myq1ytu2jck3.cyou
 clrci.canadagoose.com
 clrmdifzkawbh.space
@@ -54141,7 +54135,6 @@ databridge.sixpad.jp
 databuddy.cc
 datacenter.live.qcloud.com
 datacluster.club
-datacollect-dev.cisco.com
 datacollect.cisco.com
 datacollection.adelaideuni.edu.au
 datacollection.beymen.com
@@ -57842,18 +57835,13 @@ dognet.sk
 dogo.intel.cn
 dogo.intel.co.jp
 dogo.intel.co.kr
-dogo.intel.co.uk
-dogo.intel.com.au
 dogo.intel.com.br
-dogo.intel.com.tr
 dogo.intel.com.tw
 dogo.intel.de
 dogo.intel.es
 dogo.intel.fr
 dogo.intel.in
-dogo.intel.it
 dogo.intel.la
-dogo.intel.pl
 dogt.xyz
 dogtreats.muttyprints.com
 dogus-ads-cdn.dygdigital.com
@@ -62530,6 +62518,7 @@ eldos.xyz
 eldxuekoegvnd.online
 ele26126.jscrambler.com
 elearn.defense-solutions.curtisswright.com
+elearningmine.com
 eleavers.com
 electclasses.com
 electcocktail.com
@@ -87862,7 +87851,6 @@ iadmat.nosdn.127.net
 iadmatapk.nosdn.127.net
 iadmoo.apple.com
 iadmusicmat.music.126.net
-iadnet.com
 iadnsamqheemb.space
 iads.staticscdn.net
 iads.unity3d.com
@@ -110615,7 +110603,6 @@ luckilyassuringcattle.shop
 luckilylagooneither.com
 luckilysubtlegrouse.cheap
 lucklylight.com
-lucky-bet.site
 lucky-throat.com
 luckyads.com
 luckyads.pro
@@ -120906,7 +120893,6 @@ mjnpya.marktplaats.nl
 mjoyvn.oldi.ru
 mjp.zimad.com
 mjphu.theherocompany.co
-mjpwanvakwyslm.com
 mjqkrn.nativeorigins.com
 mjramgmogoewx.site
 mjriazemzybdg.online
@@ -121814,7 +121800,6 @@ mkt3261.com
 mkt51.net
 mkt941.com
 mktbqkzdzadrg.site
-mktcs.cloudapps.cisco.com
 mktdigitalbusiness.com
 mktdplp102cdn.azureedge.net
 mktg-data-proxy.realmanage.com
@@ -123506,7 +123491,6 @@ ms1.morganstanley.com
 ms4.applovin.com
 ms4.applvn.com
 msacsjzzitwgt.space
-msaczvwcjetyq.online
 msads.net
 msadsense.com
 msadsscale.azureedge.net
@@ -128978,7 +128962,6 @@ nzigunflybfhu.store
 nzihbokpcqppj.website
 nzj.mybluehost.me
 nzjspxfy.shop
-nzkkolbh.com
 nzl10041oa.com
 nzlji.sokolovelaw.com
 nzme-ads.co.nz
@@ -131942,6 +131925,7 @@ octectlycopin.com
 octetswales.qpon
 octillion.tv
 octo25.me
+octoberads.space
 octoclick.com
 octolinkcom.me
 octonewjs.com
@@ -134483,6 +134467,7 @@ orillontorero.cyou
 orinet.net.mydays.de
 oringmedia.com
 orion.bendingspoons.com
+oriondigital.ru
 orionember.com
 oriori.com
 oritooep.win
@@ -135022,6 +135007,7 @@ outstandingfrailabroad.com
 outstandingtelephone.pro
 outster.com
 outstream-telemetry.wemass.com
+outstreamoctober.store
 outtasked.cfd
 outtasknapaea.click
 outtechnicalspiteful.com
@@ -138887,7 +138873,6 @@ pings.vidpulse.com
 pingsurvey.com
 pingtas.qq.com
 pinion.gg
-pink-high.pro
 pink.godli.com
 pink99.com
 pinkedanoxic.com
@@ -140919,7 +140904,6 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
-post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -141337,7 +141321,6 @@ prayersoriginate.com
 prbii.rugs-direct.com
 prbn.ru
 prbxckwtajncq.space
-prcappzone.intel.com
 prchecker.info
 prchnloyitvdf.website
 prcji.kennyflowers.com
@@ -143879,7 +143862,6 @@ pvd.to
 pvdbkr.com
 pvdnugjwyrkad.website
 pvdpix.com
-pvdynatracegw01.cosmote.gr
 pveja.heydude.de
 pveldvvjrvgru.site
 pveomaidxy.com
@@ -149420,7 +149402,6 @@ redreamhypozoa.com
 redressjaguarsubsided.com
 redressmigrantfailing.com
 redressparity.com
-redresspuddleprocedure.com
 redretarget.com
 redshell.io
 redshift.shalltry.com
@@ -151267,6 +151248,7 @@ riveter29.com
 riveter35.top
 rivinadinomic.qpon
 rivlathieeton.cfd
+rivne.space
 rivuletpirns.com
 riwkmo.spacemarket.com
 riwnccdialbrm.online
@@ -154278,7 +154260,6 @@ s.dmmew.com
 s.dobafi.com
 s.domob.cn
 s.dotare.pl
-s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -158471,7 +158452,6 @@ seeimmunityswim.com
 seeinglie.com
 seek-internet.com
 seek-metrics-forwarder.cloud.seek.com.au
-seek.intel.com
 seek.uwa.edu.au
 seekbang.com
 seekdaters.com
@@ -172741,6 +172721,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -175979,7 +175960,6 @@ sourserve.com
 sourshaped.com
 souszhi.com
 southabsorbed.com
-southbrief.com
 southcooknews.com
 southefface.com
 southerncaliforniaed.tt.omtrdc.net
@@ -176935,7 +176915,6 @@ sqbcgfrjznaao.space
 sqbcn.catholiccoffee.com
 sqbekhpudmmbi.website
 sqbfnliy.admittedly.co
-sqblmvqgrp.com
 sqbzvlttwmodm.space
 sqcmgr.nils.ru
 sqcrb.dlouise.co.uk
@@ -181457,6 +181436,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 ssls.tulibrodigitalpdf.com
 ssls.zarocafe.com.br
 sslsa.scrippslifestylestudios.com
@@ -185682,7 +185662,6 @@ sst.roofing4us.com
 sst.rookvrijenfitter.nl
 sst.roomescaperoom.ch
 sst.rosenvinge.no
-sst.roseysmark.com
 sst.roth-shop.cz
 sst.rotpunkt.no
 sst.routes-hair-extensions.com
@@ -196538,7 +196517,6 @@ sync.commander1.com
 sync.connectad.io
 sync.console.adtarget.com.tr
 sync.crwdcntrl.net
-sync.cxrt.life
 sync.d2-apps.net
 sync.e-volution.ai
 sync.eilishbrands.nl
@@ -200230,7 +200208,6 @@ teams-events-data.trafficmanager.net
 teams.events.data.microsoft.com
 teamspomposity.com
 teamstatus.net
-teamswarehousedaffodil.com
 teaolg.niedersaechsischer-jobanzeiger.de
 teapotloquat.com
 tearfulglass.com
@@ -212526,7 +212503,6 @@ ultund.misterspex.nl
 uluhitailge.cfd
 uluhonolulu.evergage.com
 ulvqhajbndnty.website
-ulwfzxqtmzsfm.space
 ulwvsbezpsgff.site
 ulwzinqlh0.com
 ulx1cpf68.com
@@ -212642,7 +212618,6 @@ umerf.reisprinzen.de
 umewjp.chanti.no
 umexalim.com
 umftqapaiepma.space
-umgqpeyltjcea.com
 umguf.samialert.com
 umgzvlbrqzyeq.online
 umh.mybluehost.me
@@ -221957,7 +221932,6 @@ wmail-endpoint.xyz
 wmail-schnellvpn.com
 wmail-schnellvpn.xyz
 wmail-service.com
-wmars-client.wemakeprice.com
 wmb.mybluehost.me
 wmbbsat.com
 wmbd.gamersky.com
@@ -223157,7 +223131,6 @@ www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
 www.ad7.com
-www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -230341,7 +230314,6 @@ z5c4tnjw6p.com
 z5g022gc.xyz
 z5mw4v9g1a.com
 z5x.net
-z5y.bnnxklj.cn
 z6.cnzz.com
 z60ft9y8lj.com
 z663z.com
@@ -232417,6 +232389,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com
